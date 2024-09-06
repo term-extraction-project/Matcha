@@ -1,132 +1,143 @@
-Electrolyte Plasma Nitriding
-High-Speed Steel (HSS)
-Wear Resistance
-Microhardness
-Structural-Phase States
-Diffusion Saturation Process
-Ferrite-Pearlite Structure
-Martensite Phase Components
-Carbides Particles
-Plasma Flows
-Electron and Ion Beams
-Laser Beams
-Chemical-Thermal Treatment
-Electron Beam Processing
-Structural Restructuring
-Phase Composition
-Dislocation Substructures
-Dislocation Hardening
-Residual Austenite
-Lamellar and Packet Martensite
-Scalar and Excess Dislocation Density
-Lattice Curvature-Torsion
-Internal Stresses
-M6C-type Carbide
-Surface Irradiation
-Electrolytic-Plasma Nitriding
-Carbamide Electrolyte
-High-Speed Steel (R6M5)
+3D Printing Materials
+4D Printing
 Abrasive Wear
-Plasma-Surface Interactions
-Tungsten Surface Erosion
-Fusion Reactor Materials
-Plasma Generation
-Divertor Candidate Materials
-Thermal Loads
-Neutron Damage
-Ductile-to-Brittle Transition Temperature (DBTT)
-Plasma Detachment
-Helium Plasma Exposure
-Surface Roughness Measurement
-Ion Effects on Materials
-Electrocorundum Abrasive
-Nitrogen Martensite
-Carbide Phases
-FCC Crystal Lattice
-Electron Backscatter Diffraction (EBSD)
-X-ray Diffraction (XRD) Analysis
-Phase Composition Analysis
-Tempered Martensite
-Solid Carbide M6C
-MC-type Carbide
-Spherical Carbides
-Fd3m Spatial Group
-Monocrystalline Carbides
-Tungsten-molybdenum Steels
-Scanning Electron Microscopy (SEM)
-Elemental Composition Mapping
-High-Speed Steels
-Heat-Resistance
-Alloying Elements Distribution
-Microprobe Analysis
-Microstructure Evolution
-Detonation Nanostructures Coating
-Gradient Coatings
-Plasma Electrolytic Oxidation (PEO)
-Detonation Spraying Behavior
+Acoustic Emission Testing
 Additive Manufacturing
+Additives
+Adhesive Wear
 Advanced Ceramics
+Advanced Coatings
+Aerospace
+Alloying Elements Distribution
 Amorphous Metals
 Anisotropy
 Annealing
 Atomic Layer Deposition (ALD)
 Austenitizing
+Automotive
 Bainite
+Bio-composites
+Bio-lubricants
+Bioactive Glasses
+Biocompatible Materials
 Biodegradable Polymers
 Biomaterials
+Boundary Lubrication
+Braking Systems
 Bulk Metallic Glasses
 Calorimetry
+Carbamide Electrolyte
+Carbide Phases
+Carbides Particles
+Carbon Fiber Reinforced Plastic (CFRP)
 Carbon Nanotubes (CNTs)
 Cementite
+Ceramic Coatings
 Ceramic Matrix Composites (CMCs)
 Chemical Vapor Deposition (CVD)
+Chemical-Thermal Treatment
+Chemistry
 Cladding
 Coating Adhesion
 Cold Rolling
+Cold Spray Technology
+Cold Welding
 Composite Materials
 Conducting Polymers
+Conductive Inks
+Corrosive Wear
 Creep Resistance
 Critical Resolved Shear Stress (CRSS)
+Cryo-milling
 Cryogenic Treatment
 Crystal Growth
+Crystal Plasticity Finite Element Method (CPFEM)
 Crystallographic Texture
 Deformation Mechanisms
 Dendritic Solidification
 Density Functional Theory (DFT)
+Detonation Nanostructures Coating
+Detonation Spraying Behavior
 Dielectric Materials
 Diffusion Bonding
+Diffusion Saturation Process
+Digital Image Correlation (DIC)
+Digital Twin Technology in Materials Science
+Dimple Geometry
 Direct Metal Laser Sintering (DMLS)
+Direct Write Technologies
 Dislocation Dynamics
+Dislocation Hardening
+Dislocation Substructures
+Divertor Candidate Materials
 Doping (Semiconductors)
+Ductile-to-Brittle Transition Temperature (DBTT)
 Ductility
 Dynamic Mechanical Analysis (DMA)
+Eco-Friendly Lubricants
 Eddy Current Testing
 Electrical Conductivity
+Electrically Conductive Adhesives (ECAs)
+Electrochemical Impedance Spectroscopy (EIS)
+Electrocorundum Abrasive
+Electrolyte Plasma Nitriding
 Electromagnetic Shielding
+Electron Backscatter Diffraction (EBSD)
+Electron Beam Processing
 Electron Microscopy
 Electron Probe Microanalysis (EPMA)
+Electron and Ion Beams
+Electrophoretic Deposition
 Electrospinning
+Elemental Composition Mapping
+Emission Reduction
 Energy Dispersive X-ray Spectroscopy (EDS)
+Engine Bearings
+Engine Wear
 Eutectic Systems
+FCC Crystal Lattice
 Fatigue Life
+Fd3m Spatial Group
+Ferrite-Pearlite Structure
 Ferroelectric Materials
 Fiber Reinforced Composites
+Flexible Electronics Materials
+Flexible Substrates
 Focused Ion Beam (FIB) Milling
 Forging
 Fractography
 Fracture Mechanics
+Friction
+Fuel Efficiency
 Functionally Graded Materials (FGMs)
+Fusion Reactor Materials
 Galvanic Corrosion
+Gas Phase Synthesis of Nanoparticles
+Gear Systems
 Glass Transition Temperature
+Gradient Coatings
 Grain Boundary Engineering
+Grain Growth Inhibitors
 Grain Refinement
 Graphene
+Graphite
+Green Tribology
 Hall-Petch Relationship
 Hardness Testing
 Heat Treatment
+Heat-Resistance
+Helium Plasma Exposure
 High Entropy Alloys (HEAs)
+High-Speed Steel (HSS)
+High-Speed Steel (R6M5)
 High-Temperature Superconductors
+High-load Applications
+High-speed Applications
+High-strain-rate Testing
+High-throughput Materials Discovery
 Hot Isostatic Pressing (HIP)
+Hydrodynamic Lubrication
+Hydrogel Materials
 Hydrothermal Synthesis
 Impact Toughness
 Impedance Spectroscopy
@@ -134,234 +145,220 @@ Inclusion Analysis
 Indentation Hardness
 Induction Hardening
 Infrared Spectroscopy
+Interfacial Engineering
 Intergranular Corrosion
 Intermetallic Compounds
+Internal Stresses
+Ion Effects on Materials
 Ion Implantation
+Ionic Liquids in Materials Processing
 Isothermal Transformation
 Joule Heating
+Kinetic Friction
 Kinetic Monte Carlo Simulation
+Lamellar and Packet Martensite
+Laser Beams
 Laser Cladding
+Laser Peening
+Laser Powder Bed Fusion (LPBF)
 Laser-Induced Breakdown Spectroscopy (LIBS)
+Lattice Curvature-Torsion
 Lead-Free Solders
 Lightweight Alloys
 Liquid Crystal Polymers (LCPs)
+Low-k Dielectric Materials
+Lubricants
+Lubrication
 Luminescent Materials
+M6C-type Carbide
+MC-type Carbide
+MIM (Metal Injection Molding)
+Machine Learning
+Machinery
+Magnesium Alloys
 Magnetic Materials
+Magnetic Shape Memory Alloys
 Magnetostriction
+Martensite Phase Components
 Martensitic Transformation
+Material Engineering
 Material Fatigue
+Materials Science
 Mechanical Alloying
+Mechanical Engineering
 Mechanical Testing
-Metal Matrix Composites (MMCs)
+Mechanochemical Synthesis
 Metal Foams
+Metal Matrix Composites (MMCs)
+Metal Organic Vapor Phase Epitaxy (MOVPE)
 Metallography
 Metastable Phases
+Micro-Electromechanical Systems (MEMS)
 Microalloying
 Microelectromechanical Systems (MEMS)
+Microfluidic Materials
+Microhardness
 Micromachining
+Microprobe Analysis
+Microscopic Level
+Microstructure Evolution
 Microtensile Testing
 Microwave Sintering
-MIM (Metal Injection Molding)
 Mineral Wool Insulation
+Mixed Lubrication
+Molybdenum Disulfide
 Molybdenum Disulfide (MoS2)
+Monocrystalline Carbides
+Nano-Tribology
+Nano-engineered Coatings
 Nanocomposites
+Nanoelectromechanical Systems (NEMS)
 Nanofibers
+Nanoimprint Lithography
 Nanolithography
 Nanoparticles
+Nanoscale Additive Manufacturing
 Nanoscale Materials
+Nanostructured Surfaces
+Nanotechnology
 Nanowires
 Near Net Shape Manufacturing
+Neutron Damage
+Nitrogen Martensite
 Non-destructive Testing (NDT)
+Nonlinear Optical Materials
+Optical Coatings
 Optical Microscopy
+Organic Light-Emitting Diodes (OLED) Materials
 Organometallic Frameworks (MOFs)
 Oxidation Resistance
 Particle Reinforced Composites
 Passivation
 Permeability
+Phase Composition
+Phase Composition Analysis
+Phase Field Modeling
 Photolithography
+Photonic Crystals
+Photovoltaic Materials
+Physics
+Piezoelectric Ceramics
 Piezoelectric Materials
+Plasma Detachment
+Plasma Electrolytic Oxidation (PEO)
 Plasma Enhanced Chemical Vapor Deposition (PECVD)
+Plasma Flows
+Plasma Generation
+Plasma-Surface Interactions
 Polymer Blends
+Polymer Nanocomposites
 Polymerization
 Porosity
 Powder Metallurgy
 Precipitation Hardening
+Predictive Analytics
+Predictive Maintenance
 Pyrolysis
 Quantum Dots
+Quantum Materials
 Quenching
 Radiography
+Rapid Prototyping
+Rapid Sintering Techniques
 Reactive Ion Etching (RIE)
 Recrystallization
 Redox Reactions
 Refractory Materials
 Reinforcement Phases
+Renewable Energy Systems
+Renewable Materials
+Residual Austenite
 Resin Transfer Molding (RTM)
 Rheology
 Rolling
+Rolling Bearings
+Rolling Friction
 Scaffolding Materials
+Scalar and Excess Dislocation Density
+Scanning Electron Microscopy (SEM)
 Scanning Tunneling Microscopy (STM)
 Segregation
+Self-healing Materials
 Shape Memory Alloys (SMAs)
+Silica Aerogels
+Silicon Carbide (SiC) Semiconductors
 Sintering
+Sliding Friction
 Slip Systems
 Sol-Gel Process
+Solid Carbide M6C
 Solid Solution Strengthening
 Solid-State Welding
+Spacecraft
 Spark Plasma Sintering (SPS)
 Spectroscopy
+Spherical Carbides
 Spinodal Decomposition
 Sputtering
 Stainless Steels
+Start-stop Motions
+Static Friction
 Stereolithography (SLA)
 Stress Corrosion Cracking (SCC)
+Stribeck Curve
+Structural Restructuring
+Structural-Phase States
+Supercapacitor Materials
+Superconducting Materials
 Superplasticity
+Surface Acoustic Wave (SAW) Devices
+Surface Asperities
+Surface Fatigue Wear
+Surface Irradiation
 Surface Modification
+Surface Plasmon Resonance
+Surface Roughness Measurement
+Surface Science
 Surface Tension
+Surface Texturing
+Surface Treatments
 Suspension Polymerization
+Sustainable Technologies
+Synthetic Lubricants
+Tempered Martensite
 Tensile Testing
 Thermal Barrier Coatings (TBCs)
 Thermal Conductivity
 Thermal Expansion
+Thermal Interface Materials (TIMs)
+Thermal Loads
+Thermo-mechanical Treatment (TMT)
 Thermoelectric Materials
 Thermogravimetric Analysis (TGA)
 Thermomechanical Processing
-Thermo-mechanical Treatment (TMT)
 Thin Film Deposition
 Titanium Alloys
 Toughness
 Transmission Electron Microscopy (TEM)
+Transmission Systems
+Transparent Conductive Oxides (TCOs)
 Tribology
+Tungsten Surface Erosion
+Tungsten-molybdenum Steels
+Ultrahigh Temperature Ceramics (UHTCs)
 Ultrasonic Testing
 Vacuum Brazing
 Vapor Phase Epitaxy (VPE)
 Vickers Hardness Test
 Viscoelasticity
 Viscosity
+Wear
+Wear Mechanisms
+Wear Resistance
 Welding Metallurgy
 Wetting Angle
 Wide Bandgap Semiconductors
+X-ray Diffraction (XRD) Analysis
 X-ray Photoelectron Spectroscopy (XPS)
 Yield Strength
 Zirconium Alloys
-3D Printing Materials
-4D Printing
-Acoustic Emission Testing
-Bioactive Glasses
-Cold Spray Technology
-Digital Image Correlation (DIC)
-Electrochemical Impedance Spectroscopy (EIS)
-Flexible Electronics Materials
-Grain Growth Inhibitors
-High-throughput Materials Discovery
-Laser Peening
-Magnesium Alloys
-Nanoimprint Lithography
-Optical Coatings
-Photovoltaic Materials
-Rapid Prototyping
-Silica Aerogels
-Superconducting Materials
-Surface Plasmon Resonance
-Transparent Conductive Oxides (TCOs)
-Wear Mechanisms
-Bio-composites
-Carbon Fiber Reinforced Plastic (CFRP)
-Ceramic Coatings
-Cold Welding
-Conductive Inks
-Cryo-milling
-Crystal Plasticity Finite Element Method (CPFEM)
-Digital Twin Technology in Materials Science
-Direct Write Technologies
-Electrically Conductive Adhesives (ECAs)
-Electrophoretic Deposition
-Flexible Substrates
-Gas Phase Synthesis of Nanoparticles
-High-strain-rate Testing
-Hydrogel Materials
-Interfacial Engineering
-Ionic Liquids in Materials Processing
-Laser Powder Bed Fusion (LPBF)
-Low-k Dielectric Materials
-Magnetic Shape Memory Alloys
-Mechanochemical Synthesis
-Metal Organic Vapor Phase Epitaxy (MOVPE)
-Microfluidic Materials
-Nano-engineered Coatings
-Nanoscale Additive Manufacturing
-Nonlinear Optical Materials
-Organic Light-Emitting Diodes (OLED) Materials
-Phase Field Modeling
-Photonic Crystals
-Piezoelectric Ceramics
-Polymer Nanocomposites
-Quantum Materials
-Rapid Sintering Techniques
-Self-healing Materials
-Silicon Carbide (SiC) Semiconductors
-Supercapacitor Materials
-Surface Acoustic Wave (SAW) Devices
-Thermal Interface Materials (TIMs)
-Ultrahigh Temperature Ceramics (UHTCs)
-Friction
-Wear
-Lubrication
-Mechanical Engineering
-Materials Science
-Chemistry
-Physics
-Nanotechnology
-Sustainable Technologies
-Renewable Energy Systems
-Surface Science
-Material Engineering
-Synthetic Lubricants
-Advanced Coatings
-Stribeck Curve
-Microscopic Level
-Surface Asperities
-Static Friction
-Kinetic Friction
-Sliding Friction
-Rolling Friction
-Adhesive Wear
-Abrasive Wear
-Corrosive Wear
-Surface Fatigue Wear
-Hydrodynamic Lubrication
-Boundary Lubrication
-Mixed Lubrication
-Lubricants
-Additives
-Graphite
-Molybdenum Disulfide
-Engine Bearings
-Gear Systems
-Rolling Bearings
-High-speed Applications
-High-load Applications
-Start-stop Motions
-Machinery
-Automotive
-Aerospace
-Surface Treatments
-Fuel Efficiency
-Emission Reduction
-Engine Wear
-Transmission Systems
-Braking Systems
-Spacecraft
-Bio-lubricants
-Nano-Tribology
-Nanostructured Surfaces
-Biocompatible Materials
-Renewable Materials
-Micro-Electromechanical Systems (MEMS)
-Nanoelectromechanical Systems (NEMS)
-Surface Texturing
-Dimple Geometry
-Eco-Friendly Lubricants
-Green Tribology
-Predictive Maintenance
-Machine Learning
-Predictive Analytics
