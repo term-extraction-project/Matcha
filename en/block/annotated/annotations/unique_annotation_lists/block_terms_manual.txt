@@ -27,7 +27,6 @@ Battery Cell Manufacturers
 Binary Object Representation Serializer for Hashing
 Binary large objects (BLOBs)
 BitVM
-Bitcoin
 Bitcoin Blockchain
 Bitcoin Cash
 Bitcoin Energy Consumption
