@@ -1,0 +1,60 @@
+material_sci_01
+Electrolyte Plasma Nitriding
+High-Speed Steel (HSS)
+Wear Resistance
+Microhardness
+Structural-Phase States
+Diffusion Saturation Process
+Ferrite-Pearlite Structure
+Martensite Phase Components
+Carbides Particles
+Plasma Flows
+Electron and Ion Beams
+Laser Beams
+Chemical-Thermal Treatment
+Electron Beam Processing
+Structural Restructuring
+Phase Composition
+Dislocation Substructures
+Dislocation Hardening
+Residual Austenite
+Lamellar and Packet Martensite
+Scalar and Excess Dislocation Density
+Lattice Curvature-Torsion
+Internal Stresses
+M6C-type Carbide
+Surface Irradiation
+Electrolytic-Plasma Nitriding
+Carbamide Electrolyte
+High-Speed Steel (R6M5)
+Abrasive Wear
+Plasma-Surface Interactions
+Tungsten Surface Erosion
+Fusion Reactor Materials
+Plasma Generation
+Divertor Candidate Materials
+Thermal Loads
+Neutron Damage
+Ductile-to-Brittle Transition Temperature (DBTT)
+Plasma Detachment
+Helium Plasma Exposure
+Surface Roughness Measurement
+Ion Effects on Materials
+Electrocorundum Abrasive
+Nitrogen Martensite
+Carbide Phases
+FCC Crystal Lattice
+Electron Backscatter Diffraction (EBSD)
+X-ray Diffraction (XRD) Analysis
+Phase Composition Analysis
+Tempered Martensite
+Solid Carbide M6C
+MC-type Carbide
+Spherical Carbides
+Fd3m Spatial Group
+Monocrystalline Carbides
+Tungsten-molybdenum Steels
+Scanning Electron Microscopy (SEM)
+Elemental Composition Mapping
+High-Speed Steels
+Heat-Resistance
