@@ -148,7 +148,6 @@ Data sampling
 Data storage
 DeFi Wallet
 Decentralization
-Decentralized
 Decentralized Blockchains
 Decentralized Finance (DeFi)
 Decentralized applications (dApps)
