@@ -1,0 +1,108 @@
+	From block_en_06 (107)
+Blockchain
+Distributed database
+Ledger
+Cryptocurrency
+Immutable
+Block
+Decentralized
+Decentralized Finance (DeFi)
+Non-Fungible Tokens (NFTs)
+Smart Contracts
+Cryptography
+Transaction
+Block header hash
+Encryption algorithm
+Hexadecimal number
+Scripts
+Blockchain network
+Blockchain data structure
+Cryptocurrency wallet
+Memory pool
+Miner
+Difficulty target
+Nonce
+Block header
+Hash
+Proof-of-Work
+Computational power
+Ethereum network
+Validator
+Proof-of-Stake
+Staked ether
+51% attack
+Decentralization
+Redundancy
+Blockchain explorers
+Token
+Hashing algorithm
+Distributed ledger
+Encrypted proof
+Blockchain security
+Blockhash
+Exahashes
+Validators
+Staking
+Bitcoin
+Digital currency
+Pseudonymous creator
+Immutably record
+Votes
+Product inventories
+State identifications
+Deeds
+Wallet address
+Transparent
+Traceable
+Human vote counting
+Fraudulent voting
+Blockchain implementation
+Food Trust blockchain
+Blockchain in practice
+Personal banking
+Financial institutions
+Settlement
+Clearing process
+Stock traders
+Blockchain integration
+Data points
+Secure voting
+Cryptocurrencies
+Distributed network
+Medical records
+Private key
+Supply Chains
+IBM Food Trust
+Voting system
+Election fraud
+Blockchain protocol
+Transparency
+User privacy
+Verification process
+Third-party verification
+Transaction fees
+Central authority
+Computational mistake
+Network update
+Central database
+Open-source software
+Permission blockchains
+Regulator-approved blockchain reporting system
+Financial transparency
+Banking the unbanked
+Proof-of-work (PoW)
+Bitcoin mining
+Transaction per second (TPS)
+Ethereum upgrades
+Data sampling
+Binary large objects (BLOBs)
+Rollups
+Block size debate
+Silk Road
+Dark web
+Tor Browser
+Illicit transactions
+Regulation of cryptocurrencies
+Virtual currencies
+Data storage
+Nodes

@@ -1,0 +1,74 @@
+	From block_en_01 (72)
+Access control layer
+Absolute finality
+Blockchain
+Blockchain analysis
+Blockchain protocol
+Blockchain-like protocol
+Bitcoin
+Bitcoin blockchain
+Bitcoin Cash
+Byzantine fault tolerance
+Centralized
+Centralization risk
+Casper protocol
+Chamber of Digital Commerce
+CIOs (Chief Information Officers)
+Computational trust
+Cryptographic hash
+Cryptographer
+Cryptocurrency
+Digital asset
+Digital currency
+Decentralized
+Decentralized applications (dApps)
+Decentralized blockchain
+Distributed ledger
+Distributed timestamping server
+Double-spending
+Double-spending problem
+Ethereum
+Ethereum Classic
+Finality
+Fork
+Forks
+Global Blockchain Forum
+Genesis block
+Hash-based history
+Hashcash
+Hard fork
+Information propagation
+Main chain
+Merkle tree
+Merkle trees
+Mining nodes
+Monero
+Multiversion concurrency control (MVCC)
+Network
+Node
+Node discovery
+Nodes
+Orphan blocks
+Open blockchains
+Operator tampering
+Payment rail
+Permissioned blockchain
+Permissioned blockchains
+Permissionless blockchain
+Permissionless blockchains
+Probabilistic finality
+Proof of stake
+Proof of work
+Public key
+Public ledger
+Public-key cryptography
+Redundant computation
+Slashing
+Smart contracts
+Supermajority decision
+Timestamp
+Transactions
+Transactions per second (TPS)
+Title rights
+Value-exchange protocol
+
