@@ -1,4 +1,3 @@
-	From block_en_01 (72)
 Access control layer
 Absolute finality
 Blockchain
