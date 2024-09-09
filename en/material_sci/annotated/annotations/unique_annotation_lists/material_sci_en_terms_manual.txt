@@ -1,364 +1,968 @@
-3D Printing Materials
-4D Printing
-Abrasive Wear
-Acoustic Emission Testing
-Additive Manufacturing
-Additives
-Adhesive Wear
-Advanced Ceramics
-Advanced Coatings
-Aerospace
-Alloying Elements Distribution
-Amorphous Metals
-Anisotropy
-Annealing
-Atomic Layer Deposition (ALD)
-Austenitizing
-Automotive
-Bainite
-Bio-composites
-Bio-lubricants
-Bioactive Glasses
-Biocompatible Materials
-Biodegradable Polymers
-Biomaterials
-Boundary Lubrication
-Braking Systems
-Bulk Metallic Glasses
-Calorimetry
-Carbamide Electrolyte
-Carbide Phases
-Carbides Particles
-Carbon Fiber Reinforced Plastic (CFRP)
-Carbon Nanotubes (CNTs)
-Cementite
-Ceramic Coatings
-Ceramic Matrix Composites (CMCs)
-Chemical Vapor Deposition (CVD)
-Chemical-Thermal Treatment
-Chemistry
-Cladding
-Coating Adhesion
-Cold Rolling
-Cold Spray Technology
-Cold Welding
-Composite Materials
-Conducting Polymers
-Conductive Inks
-Corrosive Wear
-Creep Resistance
-Critical Resolved Shear Stress (CRSS)
-Cryo-milling
-Cryogenic Treatment
-Crystal Growth
-Crystal Plasticity Finite Element Method (CPFEM)
-Crystallographic Texture
-Deformation Mechanisms
-Dendritic Solidification
-Density Functional Theory (DFT)
-Detonation Nanostructures Coating
-Detonation Spraying Behavior
-Dielectric Materials
-Diffusion Bonding
-Diffusion Saturation Process
-Digital Image Correlation (DIC)
-Digital Twin Technology in Materials Science
-Dimple Geometry
-Direct Metal Laser Sintering (DMLS)
-Direct Write Technologies
-Dislocation Dynamics
-Dislocation Hardening
-Dislocation Substructures
-Divertor Candidate Materials
-Doping (Semiconductors)
-Ductile-to-Brittle Transition Temperature (DBTT)
-Ductility
-Dynamic Mechanical Analysis (DMA)
-Eco-Friendly Lubricants
-Eddy Current Testing
-Electrical Conductivity
-Electrically Conductive Adhesives (ECAs)
-Electrochemical Impedance Spectroscopy (EIS)
-Electrocorundum Abrasive
-Electrolyte Plasma Nitriding
-Electromagnetic Shielding
-Electron Backscatter Diffraction (EBSD)
-Electron Beam Processing
-Electron Microscopy
-Electron Probe Microanalysis (EPMA)
-Electron and Ion Beams
-Electrophoretic Deposition
-Electrospinning
-Elemental Composition Mapping
-Emission Reduction
-Energy Dispersive X-ray Spectroscopy (EDS)
-Engine Bearings
-Engine Wear
-Eutectic Systems
-FCC Crystal Lattice
-Fatigue Life
-Fd3m Spatial Group
-Ferrite-Pearlite Structure
-Ferroelectric Materials
-Fiber Reinforced Composites
-Flexible Electronics Materials
-Flexible Substrates
-Focused Ion Beam (FIB) Milling
-Forging
-Fractography
-Fracture Mechanics
-Friction
-Fuel Efficiency
-Functionally Graded Materials (FGMs)
-Fusion Reactor Materials
-Galvanic Corrosion
-Gas Phase Synthesis of Nanoparticles
-Gear Systems
-Glass Transition Temperature
-Gradient Coatings
-Grain Boundary Engineering
-Grain Growth Inhibitors
-Grain Refinement
-Graphene
-Graphite
-Green Tribology
-Hall-Petch Relationship
-Hardness Testing
-Heat Treatment
-Heat-Resistance
-Helium Plasma Exposure
-High Entropy Alloys (HEAs)
-High-Speed Steel (HSS)
-High-Speed Steel (R6M5)
-High-Temperature Superconductors
-High-load Applications
-High-speed Applications
-High-strain-rate Testing
-High-throughput Materials Discovery
-Hot Isostatic Pressing (HIP)
-Hydrodynamic Lubrication
-Hydrogel Materials
-Hydrothermal Synthesis
-Impact Toughness
-Impedance Spectroscopy
-Inclusion Analysis
-Indentation Hardness
-Induction Hardening
-Infrared Spectroscopy
-Interfacial Engineering
-Intergranular Corrosion
-Intermetallic Compounds
-Internal Stresses
-Ion Effects on Materials
-Ion Implantation
-Ionic Liquids in Materials Processing
-Isothermal Transformation
-Joule Heating
-Kinetic Friction
-Kinetic Monte Carlo Simulation
-Lamellar and Packet Martensite
-Laser Beams
-Laser Cladding
-Laser Peening
-Laser Powder Bed Fusion (LPBF)
-Laser-Induced Breakdown Spectroscopy (LIBS)
-Lattice Curvature-Torsion
-Lead-Free Solders
-Lightweight Alloys
-Liquid Crystal Polymers (LCPs)
-Low-k Dielectric Materials
-Lubricants
-Lubrication
-Luminescent Materials
-M6C-type Carbide
-MC-type Carbide
-MIM (Metal Injection Molding)
-Machine Learning
-Machinery
-Magnesium Alloys
-Magnetic Materials
-Magnetic Shape Memory Alloys
-Magnetostriction
-Martensite Phase Components
-Martensitic Transformation
-Material Engineering
-Material Fatigue
-Materials Science
-Mechanical Alloying
-Mechanical Engineering
-Mechanical Testing
-Mechanochemical Synthesis
-Metal Foams
-Metal Matrix Composites (MMCs)
-Metal Organic Vapor Phase Epitaxy (MOVPE)
-Metallography
-Metastable Phases
-Micro-Electromechanical Systems (MEMS)
-Microalloying
-Microelectromechanical Systems (MEMS)
-Microfluidic Materials
-Microhardness
-Micromachining
-Microprobe Analysis
-Microscopic Level
-Microstructure Evolution
-Microtensile Testing
-Microwave Sintering
-Mineral Wool Insulation
-Mixed Lubrication
-Molybdenum Disulfide
-Molybdenum Disulfide (MoS2)
-Monocrystalline Carbides
-Nano-Tribology
-Nano-engineered Coatings
-Nanocomposites
-Nanoelectromechanical Systems (NEMS)
-Nanofibers
-Nanoimprint Lithography
-Nanolithography
-Nanoparticles
-Nanoscale Additive Manufacturing
-Nanoscale Materials
-Nanostructured Surfaces
-Nanotechnology
-Nanowires
-Near Net Shape Manufacturing
-Neutron Damage
-Nitrogen Martensite
-Non-destructive Testing (NDT)
-Nonlinear Optical Materials
-Optical Coatings
-Optical Microscopy
-Organic Light-Emitting Diodes (OLED) Materials
-Organometallic Frameworks (MOFs)
-Oxidation Resistance
-Particle Reinforced Composites
-Passivation
-Permeability
-Phase Composition
-Phase Composition Analysis
-Phase Field Modeling
-Photolithography
-Photonic Crystals
-Photovoltaic Materials
-Physics
-Piezoelectric Ceramics
-Piezoelectric Materials
-Plasma Detachment
-Plasma Electrolytic Oxidation (PEO)
-Plasma Enhanced Chemical Vapor Deposition (PECVD)
-Plasma Flows
-Plasma Generation
-Plasma-Surface Interactions
-Polymer Blends
-Polymer Nanocomposites
-Polymerization
-Porosity
-Powder Metallurgy
-Precipitation Hardening
-Predictive Analytics
-Predictive Maintenance
-Pyrolysis
-Quantum Dots
-Quantum Materials
-Quenching
-Radiography
-Rapid Prototyping
-Rapid Sintering Techniques
-Reactive Ion Etching (RIE)
-Recrystallization
-Redox Reactions
-Refractory Materials
-Reinforcement Phases
-Renewable Energy Systems
-Renewable Materials
-Residual Austenite
-Resin Transfer Molding (RTM)
-Rheology
-Rolling
-Rolling Bearings
-Rolling Friction
-Scaffolding Materials
-Scalar and Excess Dislocation Density
-Scanning Electron Microscopy (SEM)
-Scanning Tunneling Microscopy (STM)
-Segregation
-Self-healing Materials
-Shape Memory Alloys (SMAs)
-Silica Aerogels
-Silicon Carbide (SiC) Semiconductors
-Sintering
-Sliding Friction
-Slip Systems
-Sol-Gel Process
-Solid Carbide M6C
-Solid Solution Strengthening
-Solid-State Welding
-Spacecraft
-Spark Plasma Sintering (SPS)
-Spectroscopy
-Spherical Carbides
-Spinodal Decomposition
-Sputtering
-Stainless Steels
-Start-stop Motions
-Static Friction
-Stereolithography (SLA)
-Stress Corrosion Cracking (SCC)
-Stribeck Curve
-Structural Restructuring
-Structural-Phase States
-Supercapacitor Materials
-Superconducting Materials
-Superplasticity
-Surface Acoustic Wave (SAW) Devices
-Surface Asperities
-Surface Fatigue Wear
-Surface Irradiation
-Surface Modification
-Surface Plasmon Resonance
-Surface Roughness Measurement
-Surface Science
-Surface Tension
-Surface Texturing
-Surface Treatments
-Suspension Polymerization
-Sustainable Technologies
-Synthetic Lubricants
-Tempered Martensite
-Tensile Testing
-Thermal Barrier Coatings (TBCs)
-Thermal Conductivity
-Thermal Expansion
-Thermal Interface Materials (TIMs)
-Thermal Loads
-Thermo-mechanical Treatment (TMT)
-Thermoelectric Materials
-Thermogravimetric Analysis (TGA)
-Thermomechanical Processing
-Thin Film Deposition
-Titanium Alloys
-Toughness
-Transmission Electron Microscopy (TEM)
-Transmission Systems
-Transparent Conductive Oxides (TCOs)
-Tribology
-Tungsten Surface Erosion
-Tungsten-molybdenum Steels
-Ultrahigh Temperature Ceramics (UHTCs)
-Ultrasonic Testing
-Vacuum Brazing
-Vapor Phase Epitaxy (VPE)
-Vickers Hardness Test
-Viscoelasticity
-Viscosity
-Wear
-Wear Mechanisms
-Wear Resistance
-Welding Metallurgy
-Wetting Angle
-Wide Bandgap Semiconductors
-X-ray Diffraction (XRD) Analysis
-X-ray Photoelectron Spectroscopy (XPS)
-Yield Strength
-Zirconium Alloys
+3d printing
+3d printing materials
+3d printing technology
+4d printing
+abrasive wear
+acoustic emission testing
+additive manufacturing
+additive manufacturing methods
+additive manufacturing technique
+additive manufacturing techniques
+additives
+adequate friction
+adhesive wear
+advanced ceramics
+advanced coatings
+advanced lubricants
+advanced materials
+advanced surface treatments
+aerospace
+aerospace applications
+aerospace sector
+aerospace vehicles
+ald
+alloy
+alloy steels
+alloying elements distribution
+alloys
+aluminum oxide
+amorphous metals
+anisotropy
+annealing
+appropriate lubricants
+aqueous environment
+atomic bonds
+atomic layer deposition
+atomic-level images
+austenite
+austenitizing
+automotive
+bainite
+base material
+base metal
+base polymer
+bio-composites
+bio-lubricants
+bio-tribology
+bioactive glasses
+biocompatible materials
+biodegradable polymers
+biomaterials
+biomedical applications
+biomedical imaging
+biomedical implants
+body-centered tetragonal crystal structure
+bond particles
+boundary lubrication
+braking systems
+brittle manner
+bulk materials
+bulk metallic glasses
+cad
+calorimetry
+carbamide electrolyte
+carbide
+carbide particles
+carbide phase
+carbide phases
+carbides
+carbides particles
+carbon atoms
+carbon fiber reinforced plastic
+carbon fibers
+carbon nanotubes
+catastrophic wear
+cementite
+ceramic coatings
+ceramic fibers
+ceramic material
+ceramic matrix
+ceramic matrix composites
+ceramic processing
+cfrp
+chemical composition
+chemical compositions
+chemical process
+chemical vapor deposition
+chemical wear
+chemical-thermal treatment
+chemistry
+cladding
+cmcs
+cnts
+coating adhesion
+coating process
+coatings
+cold environments
+cold rolling
+cold spray technology
+cold welding
+cold working
+common microstructure
+complex composite parts
+complex fluids
+complex geometries layer
+composite material
+composite materials
+computational modeling technique
+conducting polymers
+conductive inks
+conductive materials
+conductivity
+constant temperature
+constituent polymers
+contact bond
+contact lenses
+contact surfaces
+corrosion
+corrosion processes
+corrosion resistance
+corrosion-resistant steel alloys
+corrosive environment
+corrosive substances
+corrosive wear
+cpfem
+crack formation
+creep resistance
+critical resolved shear stress
+crss
+cryo-milling
+cryogenic temperatures
+cryogenic treatment
+crystal growth
+crystal lattice
+crystal plasticity finite element method
+crystal structure
+crystal structures
+crystalline layers
+crystalline material increases
+crystalline materials
+crystalline solids
+crystalline structure
+crystallographic orientation
+crystallographic structure
+crystallographic texture
+cumulative damage
+cvd
+cylindrical nanostructures
+dbtt
+deformation
+deformation behavior
+deformation mechanisms
+deformations
+dendritic solidification
+dense materials
+density functional theory
+dental implants
+deposition
+detonation nanostructures
+detonation nanostructures coating
+detonation spraying behavior
+dft
+diamond tip
+dic
+dielectric materials
+different phases
+diffraction patterns
+diffusion bonding
+diffusion saturation process
+diffusionless phase transformation
+diffusionless transformation
+digital image correlation
+digital twin technology in materials science
+dimple geometry
+direct metal laser sintering
+direct write technologies
+directional dependence
+dislocation dynamics
+dislocation hardening
+dislocation lines
+dislocation movement
+dislocation substructures
+display technology
+distinct crystal structure
+distinct microstructure
+divertor candidate materials
+dma
+dmls
+doping
+ductile-to-brittle transition temperature
+ductility
+dynamic mechanical analysis
+ebsd
+ecas
+eco-friendly lubricants
+eddy current testing
+eds
+efficient tribological practices
+eis
+elastic behavior
+electric field
+electrical circuits
+electrical conductivity
+electrical contact
+electrical fields
+electrical impedance
+electrically conductive adhesives
+electrochemical impedance spectroscopy
+electrochemical processes
+electrochemical properties
+electrochemical surface treatment process
+electrocorundum abrasive
+electrolyte plasma nitriding
+electrolytic oxidation
+electrolytic processes
+electrolytic solution
+electromagnetic fields
+electromagnetic induction
+electromagnetic radiation
+electromagnetic shielding
+electron and ion beams
+electron backscatter diffraction
+electron beam processing
+electron beams
+electron microscopy
+electron probe microanalysis
+electronic applications
+electronic assemblies
+electronic devices
+electronic structure
+electronic textiles
+electronics manufacturing
+electrophoretic deposition
+electrospinning
+electrostatic force
+electrostatic mechanisms
+elemental composition
+elemental composition mapping
+emission reduction
+energy dispersive x-ray spectroscopy
+energy harvesting devices
+energy storage devices
+energy-dispersive x-ray spectroscopy
+engine bearings
+engine wear
+engineering tribology
+enhanced conductivity
+environmental compatibility
+environmental corrosion
+epma
+eutectic systems
+excellent cutting performance
+excess dislocation density
+extensive plastic deformation
+external electric field
+external forces
+extreme conditions
+fabrication processes
+face-centered cubic crystal structure
+face-centered cubic iron
+fatigue life
+fatigue resistance
+fcc crystal lattice
+fd3m spatial group
+ferrite soft phase
+ferrite-pearlite structure
+ferroelectric materials
+ferromagnetic materials
+ferromagnetism
+ferrous alloy
+fgms
+fib
+fiber reinforced composites
+filler metal
+film
+final dimensions
+fine continuous fibers
+fine microstructures
+fine-grained microstructure
+finer grain structure
+flat-panel displays
+flexible displays
+flexible electronic devices
+flexible electronics materials
+flexible substrates
+focused ion beam  milling
+forging
+fractography
+fractography study
+fracture mechanics
+fracture surfaces
+free electrons
+friction
+fuel efficiency
+full fluid film
+functional materials
+functionally graded materials
+fundamental concept
+fusion devices
+fusion energy research
+fusion reactions
+fusion reactor
+fusion reactor materials
+galvanic corrosion
+gas phase
+gas phase synthesis
+gas phase synthesis of nanoparticles
+gas state
+gear systems
+glass transition temperature
+good ductility
+gradient coatings
+grain boundaries
+grain boundary engineering
+grain growth
+grain growth inhibitors
+grain orientation
+grain refinement
+grain size
+graphene
+graphite
+greater energy loss
+green tribology
+hall-petch relationship
+hard glassy material
+hard indenter
+hard particles
+hardening effects
+hardness
+hardness test
+hardness testing
+heas
+heat buildup
+heat capacity
+heat dissipation
+heat energy
+heat treatment
+heat treatment process
+heat treatment response
+heat treatment technique
+heat-resistance
+heating
+helium ions
+helium plasma
+helium plasma exposure
+high aspect ratio structures
+high carbon steels
+high entropy alloys
+high heat
+high power
+high pressure
+high strength
+high temperature
+high temperatures
+high-energy ball mill
+high-energy ions
+high-intensity laser pulse
+high-load applications
+high-performance electronics
+high-performance lubricants
+high-performance solid materials
+high-quality coating
+high-resolution images
+high-speed applications
+high-speed impacts
+high-speed steel
+high-strain-rate testing
+high-temperature superconductors
+high-throughput materials discovery
+higher temperatures
+hinder plastic deformation
+hip
+hot gases
+hot isostatic pressing
+hss
+hydrodynamic lubrication
+hydrogel materials
+hydrothermal synthesis
+impact toughness
+impedance spectroscopy
+improved characteristics
+improved hardness
+inclusion analysis
+indentation hardness
+individual components
+induction hardening
+industrial machinery
+infrared light
+infrared spectroscopy
+inkjet printing
+inkjet technology
+insulation
+insulation material
+interfacial engineering
+intergranular corrosion
+intermetallic compounds
+internal flaws
+internal stresses
+internal structure
+ion effects
+ion effects on materials
+ion implantation
+ionic liquids
+ionic liquids in materials processing
+iron carbide
+isothermal transformation
+joint replacements
+joule heating
+kinetic friction
+kinetic monte carlo simulation
+lamellar and packet martensite
+lamellar martensite
+larger bandgap
+laser beams
+laser cladding
+laser machining
+laser peening
+laser powder bed fusion
+laser-induced breakdown spectroscopy
+laser-induced shock waves
+lattice curvature-torsion
+layer
+layers
+lcps
+lead-free solders
+libs
+light microscopes
+light microscopy
+light-sensitive chemical photoresist
+lightweight alloys
+lightweight porous materials
+liquid crystal polymers
+liquid medium
+liquid metals
+liquid nitrogen
+long-duration space missions
+low density
+low dielectric constant
+low melting points
+low-k dielectric materials
+lower friction
+lower temperatures
+lpbf
+lubricant additives
+lubricant material
+lubricant usage
+lubricants
+lubrication
+lubrication technologies
+luminescent materials
+m6c-type carbide
+machine learning
+machinery
+machining
+machining parts
+magnesium alloys
+magnetic field
+magnetic materials
+magnetic resonance imaging
+magnetic shape memory alloys
+magnetostriction
+malleable materials
+manufacturing process
+martensite
+martensite laths
+martensite phase components
+martensitic structure
+martensitic transformation
+material
+material behavior
+material degradation
+material deposition process
+material engineering
+material fatigue
+material layer
+material processing
+material processing technique
+material properties
+material removal
+material sample
+material science
+material selection
+material strength
+materials
+materials deposition process
+materials processing
+materials reinforcement
+materials science
+materials synthesis
+matrix
+matrix material
+mc-type carbide
+mechanical action
+mechanical alloying
+mechanical behavior
+mechanical deformation processes
+mechanical engineering
+mechanical properties
+mechanical stress
+mechanical systems
+mechanical test
+mechanical testing
+mechanical work
+mechanochemical synthesis
+medical applications
+medical devices
+medical implants
+medical purposes
+melting point
+membrane technology
+memory alloys
+memory devices
+mems
+metal
+metal components
+metal foams
+metal injection molding
+metal ions
+metal matrix
+metal matrix composites
+metal organic vapor phase epitaxy
+metal part
+metal parts
+metal powder
+metal surface
+metal-to-metal contact
+metallic glasses
+metallic surfaces
+metallography
+metalorganic precursors
+metals
+metalworking process
+metastable phases
+micro-and nanoscale
+micro-electromechanical systems
+microalloying
+microelectromechanical systems
+microfabrication techniques
+microfluidic devices
+microfluidic materials
+microhardness
+micromachining
+microprobe analysis
+microscopic examination
+microscopic level
+microscopic scale
+microscopy technique
+microstructural evolution
+microstructural level
+microstructure
+microstructure evolution
+microstructures
+microtensile testing
+microwave energy
+microwave sintering
+milling process
+mim
+mineral wool insulation
+minimum stress
+mixed lubrication
+mmcs
+mofs
+molding process
+molecular interactions
+molybdenum
+molybdenum disulfide
+monocrystalline carbides
+mos2
+movpe
+nano scales
+nano-engineered coatings
+nano-tribology
+nanocomposites
+nanoelectromechanical systems
+nanofibers
+nanoimprint lithography
+nanolithography
+nanometer precision
+nanoparticles
+nanoscale
+nanoscale additive manufacturing
+nanoscale friction
+nanoscale materials
+nanoscale semiconductor particles
+nanostructured surfaces
+nanostructures
+nanotechnology
+nanotechnology devices
+nanowires
+natural lubrication systems
+ndt
+near net shape manufacturing
+neglecting tribological considerations
+nems
+net shape manufacturing
+network polymers
+neutron damage
+neutron irradiation
+nitriding
+nitrogen atoms
+nitrogen martensite
+non-destructive testing
+non-destructive testing method
+non-destructive testing technique
+non-stick coating
+non-uniform cooling
+nonlinear optical materials
+oled
+optical coatings
+optical components
+optical fibers
+optical microscopy
+optical switches
+organic light-emitting diodes  materials
+organometallic frameworks
+orientation distribution
+other corrosive environments
+other electrical components
+other elements
+other structural properties
+oxidation
+oxidation resistance
+oxidation state
+oxide coatings
+oxide materials
+packet martensite
+partial fluid film
+particle reinforced composites
+parts layer
+passivation
+pearlite layered structure
+pecvd
+peo
+periodic optical nanostructure
+periodic stress
+permanent deformation
+permanent indentation
+permeability
+phase
+phase composition
+phase composition analysis
+phase field modeling
+phase separation process
+phase transformations
+phase transition
+phases
+photolithography
+photonic crystals
+photopolymer resin layer
+photovoltaic cells
+photovoltaic materials
+physical properties
+physical vapor deposition  process
+physics
+piezoelectric ceramics
+piezoelectric materials
+plasma
+plasma cutting
+plasma detachment
+plasma edge
+plasma electrolytic oxidation
+plasma enhanced chemical vapor deposition
+plasma exposure
+plasma flows
+plasma generation
+plasma nitriding
+plasma technology
+plasma-facing material
+plasma-surface interactions
+plastic deformation
+plastic injection molding
+plastic resin
+plate-like structure
+polycrystalline carbides
+polycrystalline material
+polymer blends
+polymer matrix
+polymer nanocomposites
+polymer particles
+polymer solution
+polymerization
+polymerization process
+porosity
+porous materials
+powder bed
+powder metallurgy
+powder particles
+powdered material
+powdered materials
+powdered metal
+power devices
+power electronics
+precipitation hardening
+precise layer-by-layer construction
+predictive analytics
+predictive maintenance
+pressure differentials
+protective oxide layer
+protective properties
+pvd
+pyrolysis
+quantitative elemental analysis
+quantum dots
+quantum materials
+quantum mechanical properties
+quantum mechanics
+quenching
+r6m5
+radiography
+rapid cooling
+rapid cooling process
+rapid deformation
+rapid densification
+rapid prototyping
+rapid sintering techniques
+reactive ion
+reactive ion etching
+recrystallization
+redox reactions
+refractory materials
+reinforcement phases
+renewable energy systems
+renewable materials
+renewable sources
+residual austenite
+resin transfer molding
+rheology
+rie
+right lubrication method
+rolling
+rolling bearings
+rolling friction
+rtm
+saw
+scaffolding materials
+scalar and excess dislocation density
+scalar dislocation density
+scanning electron microscopy
+scanning tunneling microscopy
+scc
+segregation
+self-healing materials
+sem
+semiconductor devices
+semiconductor fabrication
+semiconductor material
+semiconductor materials
+semiconductors
+shape memory alloys
+sharp tip
+sic
+silica aerogels
+silicon carbide  semiconductors
+silicon carbide sic semiconductors
+single chemical composition
+single crystal structure
+single layer
+single-phase alloy
+sintering
+sla
+sliding friction
+slip planes
+slip systems
+small particles
+small volumes
+smas
+soft rubbery material
+soft solids
+soft water-absorbing polymers
+sol-gel process
+solar cells
+solar panels
+soldering materials
+solid carbide m6c
+solid materials
+solid solution
+solid solution strengthening
+solid state
+solid structure
+solid surface
+solid surfaces
+solid target material
+solid-state compounds
+solid-state powder processing technique
+solid-state welding
+solid-state welding process
+solid-state welding technique
+solidification
+solute atoms
+space group symmetry
+space tribology
+spacecraft
+spacecraft re-entry shields
+spark plasma sintering
+spatial variations
+specific environmental conditions
+specific indenter
+specific load
+specific surface properties
+spectroscopy
+spherical carbides
+spinodal decomposition
+spontaneous electric polarization
+sps
+sputtering
+square-based diamond pyramid indenter
+stainless steel
+stainless steels
+start-stop motions
+static friction
+steel
+stereolithography
+stm
+strength
+strength limit
+stress
+stress corrosion
+stress corrosion cracking
+stress-augmented thermal activation
+stribeck curve
+structural damage
+structural restructuring
+structural units
+structural-phase states
+substrate material
+supercapacitor materials
+superconducting materials
+superconductivity
+superior hardness
+superior joint quality
+superior strength
+superplasticity
+surface
+surface acoustic wave  devices
+surface asperities
+surface erosion
+surface fatigue wear
+surface finish
+surface friction
+surface hardening process
+surface irradiation
+surface layer
+surface modification
+surface plasmon resonance
+surface properties
+surface roughness measurement
+surface science
+surface tension
+surface texture
+surface texturing
+surface treatment
+surface treatment process
+surface treatments
+surfaces
+suspension polymerization
+sustainable technologies
+synthesis
+synthetic abrasive
+synthetic lubricants
+table phases
+target material
+tbcs
+tcos
+tem
+temperature
+temperature ceramics
+temperature changes
+temperature-sensitive materials
+temperatures
+tempered martensite
+tensile strength
+tensile stress
+tensile testing
+tga
+theoretical models
+thermal analysis
+thermal barrier coatings
+thermal conductivity
+thermal decomposition
+thermal expansion
+thermal heat treatments
+thermal insulation
+thermal interface materials
+thermal loads
+thermal stability
+thermal stress
+thermal stresses
+thermal transfer
+thermo-mechanical treatment
+thermoelectric materials
+thermogravimetric analysis
+thermomechanical processing
+thin crystalline layers
+thin film
+thin film deposition
+thin films
+thin layer
+thin layers
+thin-film deposition technique
+three-dimensional computer-aided design  data
+tims
+tissue engineering
+titanium alloys
+tmt
+tool steels
+topological insulators
+touch screens
+toughness
+traditional batteries
+traditional semiconductors
+transformation
+transmission electron microscopy
+transmission systems
+transparent conductive oxides
+treatment process
+tribochemical reactions
+triboinformatics
+tribological applications
+tribological behavior
+tribological concepts
+tribological innovations
+tribological interactions
+tribological knowledge
+tribological phenomena
+tribological principles
+tribological research
+tribological science
+tribological studies
+tribology
+tribology principles
+tribology research
+tungsten surface erosion
+tungsten-molybdenum steels
+turbine blades
+two-dimensional honeycomb lattice
+two-phase microstructure
+uhtcs
+ultimate tensile strength
+ultra-thin specimen
+ultra-thin wires
+ultrahigh temperature ceramics
+ultrasonic testing
+undeformed grains
+vacuum brazing
+vacuum environment
+vapor phase epitaxy
+vapor-phase chemical precursors
+various mechanical systems
+various structural forms
+vickers hardness test
+viscoelasticity
+viscosity
+vpe
+wear
+wear mechanisms
+wear resistance
+wearable sensors
+welding metallurgy
+welding processes
+wet-chemical technique
+wetting angle
+wide bandgap semiconductors
+x-ray diffraction  analysis
+x-ray irradiation
+x-ray photoelectron spectroscopy
+xps
+xrd
+yield strength
+zirconium alloys
