@@ -1,514 +1,741 @@
-.bit TLD (Top-Level Domain)
+"buy, sell, swap crypto"
+.bit tld
 .eth
 .kred
 .luxe
-AES
-ASCAP
-Absolute finality
-Access Restrictions
-Access control layer
-Accounts
-Active Bitcoin users
-Addresses
-Alternate Consensus Algorithm
-Alternate Means of Record Keeping
-Alternative DNS Root
-Anti-Counterfeiting Blockathon Forum
-Art
-Asymmetric cryptography
-Atomic transactions
-Automated Escrow
-Axie Infinity
-BRC-20 protocols
-BTC (Bitcoin)
-Banking the unbanked
-Base-58 encoded strings
-Battery Cell Manufacturers
-Binary Object Representation Serializer for Hashing
-Binary large objects (BLOBs)
-BitVM
-Bitcoin Blockchain
-Bitcoin Cash
-Bitcoin Energy Consumption
-Bitcoin Layer 2 solution
-Bitcoin Ordinals
-Bitcoin blockchain
-Bitcoin dominance
-Bitcoin mining
-Bitcoin white paper
-Bitcoin/EVM chains
-Bitlayer
-Bitlayer Mainnet V1
-Block
-Block header
-Block header hash
-Block producer
-Block size debate
-Blockchain
-Blockchain Connectors
-Blockchain Engines
-Blockchain Game
-Blockchain Interoperability
-Blockchain Interoperability Architecture
-Blockchain Mining
-Blockchain Table Feature
-Blockchain Terminology
-Blockchain Wallets
-Blockchain analysis
-Blockchain data structure
-Blockchain explorers
-Blockchain implementation
-Blockchain in practice
-Blockchain integration
-Blockchain network
-Blockchain projects
-Blockchain protocol
-Blockchain protocol engineering
-Blockchain security
-Blockchain technology
-Blockchain technology innovation
-Blockchain-Backed System
-Blockchain-based games
-Blockchain-like protocol
-Blockchain.com
-Blockchain.com Account
-Blockchain.com App
-Blockchain.com Explorer
-Blockchain.com Staking Earn Account
-Blockchain.com Wallet
-Blockhash
-Borsh
-Browser extensions
-Bullish
-Business Value
-"Buy, sell, swap crypto"
-Byte array
-Byte buffer
-Byzantine fault tolerance
-CIOs (Chief Information Officers)
-CO2 Emissions
-Capital Markets Board
-Cardano
-Casper protocol
-Central authority
-Central database
-Centralization risk
-Centralized
-Centralized Blockchain
-Centralized exchanges
-Certificate
-Chacha20
-Chainalysis
-Chamber of Digital Commerce
-Clearing process
-Climate Impact of Blockchain Technology
-Climate-Relevant Gases
-Company Shares
-Computational mistake
-Computational power
-Computational trust
-Conditional financial applications
-Consensus Protocol
-Consensus builder
-Consensus side
-Consensus-Based Distributed Blockchains
-Consortium Blockchains
-Consumer Price Index (CPI)
-Contractual Obligations
-Corporate Investment
-Cost basis
-Counterfeits Detection
-Crypto Confidence survey
-Crypto Winter
-Crypto asset transactions
-Crypto community
-Crypto drainer
-Crypto firms
-Crypto regulation
-Crypto services
-Crypto transaction
-Crypto wallets
-CryptoKitties
-Cryptocurrencies
-Cryptocurrency
-Cryptocurrency Interoperability Approaches
-Cryptocurrency Payments
-Cryptocurrency Wallet Addresses
-Cryptocurrency purchase
-Cryptocurrency wallet
-Cryptographer
-Cryptographic hash
-Cryptographic innovations
-Cryptography
-Custodial account
-Custodial wallet
-Dark web
-Data points
-Data sampling
-Data storage
-DeFi Wallet
-Decentralization
-Decentralized Blockchains
-Decentralized Finance (DeFi)
-Decentralized applications (dApps)
-Decentralized blockchain
-Decentralized finance (DeFi)
-Decentralized networks
-Deeds
-Deposit protection schemes
-Diamond Trading Company (DTC)
-Difficulty target
-Digiconomist
-Digital Assets
-Digital Security Offerings (DSOs)
-Digital asset
-Digital currency
-Discord communities
-Discreet Log Contract (DLC) framework
-Disinflation
-Distributed Ledger Technologies (DLT)
-Distributed database
-Distributed ledger
-Distributed network
-Distributed timestamping server
-Docking Layer
-Dollar cost averaging (DCA)
-Domain Name Services
-Double-spending
-ECC (Elliptic Curve Cryptography)
-EOS Mainnet
-EOS Network Foundation
-EOSIO
-ETF (Exchange-Traded Fund)
-EUIPO (European Union Intellectual Property Office)
-Economic Incentives
-Election fraud
-Electronic Arts
-EmerDNS
-Encrypted proof
-Encryption
-Encryption algorithm
-Energy Consumption
-Energy Efficiency of Proof-of-Work Blockchains
-Epic Games Store
-Ether ETF (Exchange-Traded Fund)
-Ethereum
-Ethereum Blockchain
-Ethereum Classic
-Ethereum Merge
-Ethereum Name Service (ENS)
-Ethereum network
-Ethereum protocol
-Ethereum staking
-Ethereum technology
-Ethereum upgrades
-Ethical Standards
-Everledger
-Exahashes
-Exchange outflows
-Execution side
-Fashion Industry
-Fees
-Finality
-Financial institutions
-Financial transparency
-Flash loans
-Food Trust blockchain
-Fork
-Fraudulent voting
-Fraudulent web3 sites
-Gambling services
-GameFi
-Genesis block
-Global Blockchain Forum
-Global blockchain industry
-Governance
-Hard fork
-Hardware wallets
-Hash
-Hash-based history
-Hashcash
-Hashing algorithm
-Hexadecimal number
-High speed
-High-performance blockchain
-High-throughput
-Horizontal scaling
-Hot wallet
-Human vote counting
-Hybrid Blockchains
-Hyperledger
-Hyperledger Burrow
-Hyperledger Fabric
-IBM Food Trust
-IBM's Blockchain-Based Tracking Service
-ICANN
-IMF (International Monetary Fund)
-Icertis
-Identity
-Illicit transactions
-Immutable
-Immutable Feature
-Immutably record
-In-Game Currency
-Industrial production
-Inflation
-Information propagation
-Initial Coin Offerings (ICOs)
-Instructions
-Intellectual Property
-Intermediaries
-International Computer Science Institute
-International Data Corp
-Internet of Things (IoT)
-Interoperability
-Investment in Blockchain Technology
-Investor sentiment
-Inward scaling
-Item ID
-KYC (Know Your Customer) Standards
-Key exchange
-Keypair
-Krafton
-Lamports
-Launder the funds
-Layer 1 (L1) verification
-Layer 1 chains
-Layer 2 solutions
-Layered scaling
-Ledger
-Legal Status of Smart Contracts
-Legal tender
-Legal uncertainties
-Licensing system
-Lightweight Blockchains
-Liquidity pools
-Low fees
-Low-cost transaction experience
-Magic Eden
-Main chain
-Mainnet
-Malicious transactions
-Market cap
-Market sentiment
-Market volatility
-Medical records
-Memecoin
-Memory pool
-Merkle tree
-Metaverse
-Microinsurance
-Miner
-Mining nodes
-Mixing services
-Monero
-Mortgage rates
-Motor Vehicles
-Multiple blockchains
-Multiversion concurrency control (MVCC)
-Music Distribution
-Mycelia
-NEN (Dutch Standardisation Organisation)
-NFT
-NFT collections
-NFT platform
-NFT-based games
-NFTs (Non-Fungible Tokens)
-Namecoin
-National Digital Currency
-Network
-Network Administrators
-Network update
-Network upgrade
-Node
-Node discovery
-Non-Fungible Tokens (NFTs)
-Non-custodial wallet
-Nonce
-OKX Ventures
-Offline wallet
-On-chain support level
-Open blockchains
-Open-source software
-Operator tampering
-Oracle 21c Database
-Ordinals
-Organizational Efficiency
-Orphan blocks
-PRS for Music
-Parametric Insurance
-Participant Access
-Payment rail
-Peer-to-Peer Decentralized Database Applications
-Peer-to-Peer Energy Trading
-Peer-to-Peer Insurance
-Permanent Public Transparent Ledger
-Permission blockchains
-Permissioned Blockchains
-Permissioned Private Blockchain
-Permissioned blockchain
-Permissionless blockchain
-Personal banking
-Phantom Wallet
-Phishing tool
-Play-to-earn (P2E) games
-Player ID
-Polkadot
-Polygon
-Precious Commodities Mining
-Primary Blockchain
-Privacy
-Private Blockchains
-Private key
-Private key theft
-Probabilistic finality
-Producer Price Index (PPI)
-Product inventories
-Program ID
-Program data
-Programs
-Proof of Concept
-Proof of Work (PoW)
-Proof-of-Stake (PoS)
-Pseudonymity
-Pseudonymous creator
-Public Blockchains
-Public key
-Public key cryptography
-Public ledger
-PwC (PricewaterhouseCoopers)
-QR Codes
-Quorum
-RSA
-Ransomware
-React app
-Real Estate
-Redundancy
-Redundant computation
-Reference Architecture
-Registrar
-Regulation of cryptocurrencies
-Regulator-approved blockchain reporting system
-Regulatory changes
-Regulatory oversight
-Rollups
-Runes
-Rust
-SOL
-Scalability
-Scalability Problems
-Scammers
-Scripts
-Secret key
-Secure transaction signing
-Secure voting
-Securities and Exchange Commission (SEC)
-Security
-Security Token Offerings (STOs)
-Seed (recovery) phrase
-Self-custody
-Sell-offs
-Serialization
-Session key
-Settlement
-Shanghai-Capella
-Sharing Economy
-Short-term holders (STH)
-Sidechain
-Signature
-Silk Road
-Simplified Blockchains
-Skin Gambling
-Slashing
-Smart Contracts
-Smart contract exploitation
-Social media accounts
-Software wallets
-Solana
-Solana Labs
-Solana ecosystem
-Solana network
-Solana programs
-Solana runtime
-Solana wallet
-Solana wallet addresses
-Solana/web3.js
-Solana’s Wallet-Adapter
-Solana’s building language
-Stake
-Staked ETH
-Staked ether
-Staking
-Staking rewards
-Standards
-State identifications
-Steam Digital Storefront
-Stock traders
-Storing crypto
-Struct
-Supermajority decision
-Supply Chains
-Sustainability
-Sustainable Development
-Sustainable Management
-Swap cryptocurrencies
-Symmetric cryptography
-Take-Two Interactive
-Taproot
-Taxes on Staking
-Temporary wallet
-Terawatt-Hours (TWh)
-The Handshake Network
-Third-party verification
-Timestamp
-Title rights
-Token
-Tokenization
-Tor Browser
-Total Value Locked (TVL)
-Traceable
-Tracer
-Traditional Assets
-Transaction
-Transaction Automation
-Transaction fees
-Transaction per second (TPS)
-Transaction proposals
-Transaction submission
-Transparent
-Trustless bridge
-Trustlessness
-Turing completeness
-Two-factor authentication (2FA)
-Ubisoft
-Ultra-scalability
-Uncensorable Websites
-Unique Identifiers
-Unstoppable Domains
-User privacy
-Validate transactions
-Validator
-Validator Access
-Value-exchange protocol
-Variant
-Verification process
-Vertical scaling
-Virtual Items
-Virtual currencies
-Votes
-Voting system
-Wallet
-Wallet Guard
-Wallet address
-Wallet standard
-Wallet-Adapter library
-Wallets
-Web 3.0
-Web3 ecosystem
-Web3 gaming
-Web3 projects
-Web3 security extensions
-Web3 technology
-Withdrawals
-dApps
-exSat
+2fa
+absolute finality
+absolute guarantee
+access control
+access control layer
+access restrictions
+accounts
+active bitcoin users
+addresses
+aes
+algorithm
+alternate consensus algorithm
+alternate means of record keeping
+alternative dns root
+anti-counterfeiting blockathon forum
+anti-counterfeiting infrastructure
+arbitrary data
+art
+ascap
+assets
+asymmetric cryptography
+asymmetric encryption
+atomic transactions
+authentication
+authority
+automated escrow
+axie infinity
+banking the unbanked
+base-58 encoded strings
+battery cell manufacturers
+binary large objects
+binary object representation serializer
+binary object representation serializer for hashing
+bitcoin
+bitcoin blockchain
+bitcoin cash
+bitcoin cryptocurrency transactions
+bitcoin design
+bitcoin dominance
+bitcoin energy consumption
+bitcoin exchange-traded funds
+bitcoin layer 2 solution
+bitcoin mining
+bitcoin network
+bitcoin ordinals
+bitcoin protocol
+bitcoin split
+bitcoin white paper
+bitcoin-mining farms
+bitcoin/evm chains
+bitfinex alpha
+bitlayer
+bitlayer mainnet v1
+bitvm
+bitvm community
+bitvm paradigm
+blobs
+block
+block completion
+block hashes
+block header
+block header hash
+block producer
+block size debate
+blockchain
+blockchain adoption
+blockchain analysis
+blockchain block
+blockchain connectors
+blockchain creation tools
+blockchain currency
+blockchain data structure
+blockchain database
+blockchain decentralization
+blockchain engines
+blockchain explorers
+blockchain game
+blockchain games
+blockchain implementation
+blockchain in practice
+blockchain industry
+blockchain integration
+blockchain interoperability
+blockchain interoperability architecture
+blockchain ledger
+blockchain mining
+blockchain network
+blockchain networks
+blockchain projects
+blockchain protocol
+blockchain protocol engineering
+blockchain protocols
+blockchain prototype
+blockchain records
+blockchain security
+blockchain solutions
+blockchain system
+blockchain systems
+blockchain table feature
+blockchain technologies
+blockchain technology
+blockchain technology company
+blockchain technology innovation
+blockchain terminology
+blockchain tracking services
+blockchain transactions
+blockchain wallets
+blockchain-backed system
+blockchain-based alternative
+blockchain-based games
+blockchain-enabled cryptocurrencies
+blockchain-like protocol
+blockchain.com
+blockchain.com account
+blockchain.com app
+blockchain.com explorer
+blockchain.com staking earn account
+blockchain.com wallet
+blockchains
+blockhash
+blocks
+borsh
+brc-20 protocols
+browser extensions
+btc
+bullish
+business value
+byte array
+byte buffer
+byzantine fault tolerance
+capital markets board
+cardano
+casper protocol
+central authority
+central database
+centralization risk
+centralized
+centralized blockchain
+centralized exchanges
+centralized official copy
+certificate
+chacha20
+chainalysis
+chamber of digital commerce
+chief information officers
+cios
+clearing process
+client-side code
+climate impact of blockchain technology
+climate-relevant gases
+co2 emissions
+collaborative effort
+company shares
+computational mistake
+computational power
+computational trust
+conditional financial applications
+consensus algorithm protocol
+consensus builder
+consensus protocol
+consensus side
+consensus-based distributed blockchains
+consortium blockchain
+consortium blockchains
+consortium members
+consumer price index
+contracts
+contractual obligations
+corporate investment
+cost basis
+counterfeits detection
+cpi
+cpi report
+cross-border trades
+crypto asset transactions
+crypto community
+crypto confidence
+crypto confidence survey
+crypto drainer
+crypto drainer attacks
+crypto exchanges
+crypto firms
+crypto funds
+crypto investors
+crypto market
+crypto regulation
+crypto services
+crypto space
+crypto transaction
+crypto wallets
+crypto winter
+cryptocurrencies
+cryptocurrency
+cryptocurrency bitcoin
+cryptocurrency interoperability approaches
+cryptocurrency payments
+cryptocurrency purchase
+cryptocurrency systems
+cryptocurrency transactions
+cryptocurrency wallet
+cryptocurrency wallet addresses
+cryptocurrency wallets
+cryptographer
+cryptographic hash
+cryptographic hashes
+cryptographic innovations
+cryptography
+cryptokitties
+currency
+currency restrictions
+custodial account
+custodial wallet
+dapps
+dark web
+data nodes
+data points
+data sampling
+data storage
+dca
+decentralization
+decentralized applications
+decentralized blockchain
+decentralized blockchains
+decentralized finance
+decentralized networks
+decentralized security
+decentralized system
+dedicated password manager
+deed
+deeds
+defi
+defi wallet
+deposit protection schemes
+diamond trading company
+difficulty target
+digiconomist
+digital asset
+digital assets
+digital currencies
+digital currency
+digital security offerings
+discord communities
+discreet log contract  framework
+disinflation
+distributed database
+distributed ledger
+distributed ledger technologies
+distributed network
+distributed timestamping server
+dlc
+dlt
+docking layer
+dollar cost averaging
+dollar cost averaging strategy
+domain name services
+double-spending
+double-spending problem
+drainer
+drainers
+dsos
+dtc
+dutch standardisation organisation
+ecc
+economic incentives
+election fraud
+electoral process
+electronic arts
+elliptic curve cryptography
+emerdns
+encrypted proof
+encryption
+encryption algorithm
+energy consumption
+energy efficiency of proof-of-work blockchains
+energy-intensive mining nodes
+ens
+entities
+entry
+eos mainnet
+eos network foundation
+eos network stakeholders
+eosio
+epic games store
+etf
+etf inflows
+etfs witness
+eth
+ether etf
+ethereum
+ethereum blockchain
+ethereum classic
+ethereum cryptocurrency
+ethereum ecosystem
+ethereum merge
+ethereum name service
+ethereum network
+ethereum protocol
+ethereum staking
+ethereum technology
+ethereum upgrades
+ethical standards
+euipo
+european union intellectual property office
+everledger
+exahashes
+exchange agreement
+exchange outflows
+exchange-traded fund
+execution side
+exsat
+external liaisons
+fair trade
+fashion industry
+fault
+fees
+finality
+financial institutions
+financial transparency
+flash loans
+food trust blockchain
+fork
+forks
+fraud
+fraudulent voting
+fraudulent web3 sites
+full-stack dapp
+gambling
+gambling services
+gamefi
+genesis block
+global blockchain forum
+global blockchain industry
+global eos community
+governance
+hard fork
+hardware wallets
+hash
+hash-based history
+hashcash
+hashing algorithm
+hexadecimal number
+high speed
+high-performance blockchain
+high-throughput
+high-throughput low-cost transaction experience
+horizontal scaling
+hot wallet
+http request
+human vote counting
+hybrid blockchain
+hybrid blockchains
+hyperledger
+hyperledger burrow
+hyperledger fabric
+ibm food trust
+ibm's blockchain-based tracking service
+icann
+icertis
+icos
+identity
+illicit transactions
+imf
+immutable
+immutable feature
+immutably record
+in-game currency
+incomplete transactions
+industrial production
+infinite reproducibility
+inflation
+information propagation
+initial capital commitment
+initial coin offerings
+instruction
+instructions
+intellectual property
+intermediaries
+international computer science institute
+international data corp
+international monetary fund
+internet of things
+interoperability
+investment in blockchain technology
+investor sentiment
+inward scaling
+iot
+iot applications
+iso technical committee
+item id
+key
+key exchange
+keypair
+keypairs
+know your customer
+krafton
+kyc  standards
+l1
+lamports
+launder the funds
+layer 1  verification
+layer 1 chains
+layer 2 solutions
+layered scaling
+ledger
+ledger size
+legal contracts
+legal status of smart contracts
+legal tender
+legal uncertainties
+level
+licensing system
+lightweight blockchain-based network
+lightweight blockchains
+liquidity pools
+long-term holders
+low fees
+low-cost transaction experience
+magic eden
+main chain
+mainnet
+malicious actor
+malicious actors
+malicious transactions
+market cap
+market sentiment
+market volatility
+massive group mining effort
+matching private key
+matching public key
+medical records
+memecoin
+memory pool
+merkle tree
+merkle trees
+metaverse
+metaverse content
+metaverse world
+microinsurance
+miner
+mining nodes
+mixing services
+modern voting system
+monero
+mortgage rates
+motor vehicles
+multiple blockchains
+multiversion concurrency control
+music distribution
+mutual respect
+mvcc
+mycelia
+namecoin
+national digital currency
+nen
+net inflows
+network
+network administrators
+network update
+network upgrade
+network users
+new transaction blocks
+nft
+nft collections
+nft platform
+nft-based games
+nfts
+node
+node discovery
+nodes
+non-custodial wallet
+non-fungible tokens
+nonce
+nxt community
+offline wallet
+okx ventures
+on-chain support level
+open blockchains
+open public blockchains
+open-source software
+operator tampering
+oracle 21c database
+ordinals
+ordinals trading community
+organizational efficiency
+orphan blocks
+p2e
+parallel processing
+parametric insurance
+participant access
+payment rail
+peer-to-peer computer computations
+peer-to-peer decentralized database applications
+peer-to-peer energy trading
+peer-to-peer insurance
+peer-to-peer network
+peer-to-peer p2p computer network
+permanent public transparent ledger
+permission blockchains
+permissioned blockchain
+permissioned blockchains
+permissioned private blockchain
+permissionless blockchain
+personal banking
+phantom wallet
+phishing tool
+physical deed
+play-to-earn  games
+player id
+polkadot
+polygon
+pos
+pow
+ppi
+precious commodities mining
+pricewaterhousecoopers
+primary blockchain
+primary nft platform
+privacy
+private blockchain
+private blockchains
+private corporate server
+private key
+private key theft
+probabilistic finality
+producer price index
+product inventories
+program data
+program id
+programs
+proof of concept
+proof of work
+proof-of-stake
+proof-of-work
+proof-of-work model
+proof-of-work system
+property dispute
+property ownership
+proprietary blockchains
+protocols
+prs for music
+pseudonymity
+pseudonymous creator
+public blockchains
+public databases
+public index
+public key
+public key cryptography
+public keys
+public ledger
+public proof-of-work blockchains
+public transparency
+pwc
+qr codes
+quorum
+ransom payment
+ransomware
+react app
+real estate
+real-world value
+record
+record keeping
+recovery
+redundancy
+redundant computation
+reference architecture
+registrar
+regulation of cryptocurrencies
+regulator-approved blockchain reporting system
+regulatory changes
+regulatory oversight
+reputable wallet
+rollups
+rsa
+runes
+runtime
+rust
+scalability
+scalability problems
+scammers
+scripts
+sec
+second tier suppliers
+secret key
+secret key holder
+secure hash-based history
+secure transaction signing
+secure voting
+securities and exchange commission
+security
+security token offerings
+seed  phrase
+self-custody
+sell-offs
+serialization
+serializer
+session key
+settlement
+shanghai-capella
+sharing economy
+short-term holders
+sidechain
+signature
+silk road
+simplified blockchains
+single instruction
+skin gambling
+slashing
+smart contract
+smart contract exploitation
+smart contracts
+social media accounts
+software wallets
+sol
+solana
+solana ecosystem
+solana labs
+solana network
+solana programs
+solana runtime
+solana wallet
+solana wallet addresses
+solana/web3.js
+solana’s building language
+solana’s wallet-adapter
+specific wallet package
+stake
+stake network
+staked eth
+staked ether
+staking
+staking rewards
+standardization process
+standards
+state identifications
+steam digital storefront
+sth
+stock traders
+storing crypto
+stos
+struct
+supermajority decision
+supply chain monitoring
+supply chains
+sustainability
+sustainable development
+sustainable management
+swap cryptocurrencies
+symmetric cryptography
+symmetric cryptography algorithms
+symmetric encryption
+take-two interactive
+taproot
+target hash
+taxes on staking
+temporary fork
+temporary wallet
+terawatt-hours
+the handshake network
+third-party verification
+time-stamped blocks
+timestamp
+title rights
+token
+tokenization
+top-level domain
+tor browser
+total value locked
+tps
+traceable
+tracer
+traditional assets
+traditional corporate databases
+transaction
+transaction automation
+transaction contents
+transaction data
+transaction fees
+transaction information
+transaction per second
+transaction proposals
+transaction submission
+transactions
+transparency
+transparent
+trust
+trustless bridge
+trustlessness
+turing completeness
+tvl
+twh
+two-factor authentication
+ubisoft
+ultra-scalability
+uncensorable websites
+unique hash
+unique identifiers
+united nations economic commission
+unsigned 256-bit integer
+unstoppable domains
+untraceable cash
+user privacy
+valid hash
+valid transactions
+validate transactions
+validator
+validator access
+value
+value-exchange protocol
+variant
+ventures
+verification process
+vertical scaling
+viable smart contract systems
+virtual currencies
+virtual items
+voter turnout
+votes
+voting system
+wallet
+wallet address
+wallet guard
+wallet standard
+wallet support
+wallet-adapter library
+wallets
+web 3.0
+web traffic
+web3 ecosystem
+web3 game
+web3 gaming
+web3 projects
+web3 security extensions
+web3 services
+web3 technology
+whitepaper
+withdrawals
