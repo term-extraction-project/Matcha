@@ -4,6 +4,7 @@
 4d printing
 abrasive wear
 acoustic emission testing
+acoustic waves
 additive manufacturing
 additive manufacturing methods
 additive manufacturing technique
@@ -194,7 +195,6 @@ ecas
 eco-friendly lubricants
 eddy current testing
 eds
-efficient tribological practices
 eis
 elastic behavior
 electric field
@@ -345,6 +345,7 @@ helium plasma exposure
 high aspect ratio structures
 high carbon steels
 high entropy alloys
+high-frequency sound waves
 high heat
 high power
 high pressure
