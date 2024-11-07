@@ -2,8 +2,10 @@
 absolute finality
 access control
 access restrictions
+account
 accounts
 active bitcoin users
+ad-hoc compute clusters
 addresses
 aes
 algorithm
@@ -11,9 +13,11 @@ alternate consensus algorithm
 alternative dns root
 anti-counterfeiting infrastructure
 arbitrary data
+asset
 assets
 asymmetric cryptography
 asymmetric encryption
+atomic
 atomic transactions
 authentication
 authority
@@ -29,6 +33,7 @@ bitcoin cryptocurrency transactions
 bitcoin design
 bitcoin energy consumption
 bitcoin exchange-traded funds
+bitcoin halving
 bitcoin mining
 bitcoin network
 bitcoin ordinals
@@ -43,6 +48,7 @@ bitlayer mainnet v1
 bitvm
 bitvm community
 bitvm paradigm
+bitvm technologies
 blobs
 block
 block completion
@@ -52,6 +58,7 @@ block header hash
 block producer
 block size debate
 blockchain
+blockchain application
 blockchain connectors
 blockchain currency
 blockchain data structure
@@ -101,11 +108,13 @@ business value
 byte array
 byte buffer
 byzantine fault tolerance
+byzantine fault tolerance-based proof-of-stake
 capital markets board
 cardano
 casper protocol
 central authority
 central database
+centralization
 centralization risk
 centralized
 centralized blockchain
@@ -116,6 +125,7 @@ chainalysis
 chamber of digital commerce
 chief information officers
 cios
+client
 client-side code
 co2 emissions
 collaborative effort
@@ -123,7 +133,11 @@ company shares
 computational mistake
 computational power
 computational trust
+concurrency
+consensus
+consensus algorithm
 consensus protocol
+consensus-based distributed blockchains
 consortium blockchain
 consortium blockchains
 consortium members
@@ -136,14 +150,17 @@ counterfeits detection
 cpi
 cpi report
 cross-border trades
+crypto
 crypto asset transactions
 crypto community
 crypto confidence
 crypto drainer
 crypto drainer attacks
+crypto drainers
 crypto exchanges
 crypto firms
 crypto funds
+crypto industry
 crypto investors
 crypto market
 crypto regulation
@@ -166,6 +183,7 @@ cryptographic innovations
 cryptography
 cryptokitties
 currency
+custodial
 custodial account
 custodial wallet
 dapps
@@ -198,6 +216,7 @@ digital currencies
 digital currency
 digital security offerings
 discord communities
+discreet log contract
 disinflation
 distributed database
 distributed ledger
@@ -237,7 +256,9 @@ eos network stakeholders
 eosio
 epic games store
 etf
+etf inflow
 etf inflows
+etfs
 etfs witness
 eth
 ether etf
@@ -261,6 +282,7 @@ exahashes
 exchange agreement
 exchange outflows
 exchange-traded fund
+exchange-traded funds
 execution side
 exsat
 external liaisons
@@ -313,13 +335,14 @@ icann
 icertis
 icos
 identity
-illicit transactions
 illicit purchases
+illicit transactions
 imf
 immutable
 immutable feature
 immutably record
 in-game currency
+in-house blockchain solution
 incomplete transactions
 industrial production
 infinite reproducibility
@@ -349,12 +372,13 @@ keypair
 keypairs
 know your customer
 krafton
-kyc  standards
+kyc standards
 l1
+lamport
 lamports
 launder the funds
-layer 1  verification
 layer 1 chains
+layer 1 verification
 layer 2 solutions
 layered scaling
 ledger
@@ -396,8 +420,8 @@ miner
 mining nodes
 mixing services
 modern voting system
-money laundering
 monero
+money laundering
 mortgage rates
 motor vehicles
 multiple blockchains
@@ -424,6 +448,7 @@ nfts
 node
 node discovery
 nodes
+non-custodial
 non-custodial wallet
 non-fungible tokens
 nonce
@@ -461,7 +486,7 @@ personal banking
 phantom wallet
 phishing tool
 physical deed
-play-to-earn  games
+play-to-earn games
 player id
 polkadot
 polygon
@@ -478,6 +503,7 @@ private blockchains
 private corporate server
 private key
 private key theft
+private keys
 probabilistic finality
 producer price index
 product inventories
@@ -487,8 +513,12 @@ programs
 proof of concept
 proof of work
 proof-of-stake
+proof-of-stake algorithm
+proof-of-stake network
 proof-of-work
+proof-of-work algorithm
 proof-of-work model
+proof-of-work network
 proof-of-work system
 property dispute
 property ownership
@@ -542,7 +572,7 @@ secure voting
 securities and exchange commission
 security
 security token offerings
-seed  phrase
+seed phrase
 self-custody
 sell-offs
 serialization
@@ -571,10 +601,12 @@ solana runtime
 solana wallet
 solana wallet addresses
 solana/web3.js
+solanaвђ™s wallet-adapter
 stake
 stake network
 staked eth
 staked ether
+stakers
 staking
 staking rewards
 standards
@@ -606,6 +638,7 @@ third-party verification
 time-stamped blocks
 timestamp
 title rights
+tld
 token
 tokenization
 top-level domain
