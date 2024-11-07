@@ -21,6 +21,6 @@ In the blockchain domain, there are 6 document with a total of 668 terms extract
 |----------|--------------------|-----------|-------|
 | english  | Blockchain        | 6         | 668   |
 | english  | Material Science  | 7         | 375   |
-| kazakh   | Blockchain        | 6         | 668   |
-| kazakh   | Material Science  | 7         | 375   |
+| kazakh   | Blockchain        | 6         | 511   |
+| kazakh   | Material Science  | 7         |       |
 
