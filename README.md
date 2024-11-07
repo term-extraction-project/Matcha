@@ -2,7 +2,7 @@
 
 ## 1. General
 
-Matcha is a manually annotated dataset for term extraction, covering 2 languages (English and Kazakh), and 2 domains (Blockchain, Material Science).
+Matcha is a manually annotated dataset for term extraction, covering 2 languages (English and Kazakh), and 2 domains (Blockchain and Material Science).
 
 ## 2. Abbreviations
 **Languages and domains:**
