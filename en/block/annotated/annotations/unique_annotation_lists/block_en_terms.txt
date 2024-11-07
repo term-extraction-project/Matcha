@@ -18,7 +18,6 @@ assets
 asymmetric cryptography
 asymmetric encryption
 atomic
-atomic transactions
 authentication
 authority
 automated escrow
@@ -31,10 +30,7 @@ bitcoin blockchain
 bitcoin cash
 bitcoin cryptocurrency transactions
 bitcoin design
-bitcoin energy consumption
 bitcoin exchange-traded funds
-bitcoin halving
-bitcoin mining
 bitcoin network
 bitcoin ordinals
 bitcoin protocol
@@ -61,12 +57,10 @@ blockchain
 blockchain application
 blockchain connectors
 blockchain currency
-blockchain data structure
 blockchain database
 blockchain explorers
 blockchain game
 blockchain games
-blockchain integration
 blockchain interoperability
 blockchain ledger
 blockchain mining
@@ -115,7 +109,6 @@ casper protocol
 central authority
 central database
 centralization
-centralization risk
 centralized
 centralized blockchain
 centralized exchanges
@@ -123,11 +116,9 @@ certificate
 chacha20
 chainalysis
 chamber of digital commerce
-chief information officers
 cios
 client
 client-side code
-co2 emissions
 collaborative effort
 company shares
 computational mistake
@@ -146,7 +137,6 @@ contracts
 contractual obligations
 corporate investment
 cost basis
-counterfeits detection
 cpi
 cpi report
 cross-border trades
@@ -160,7 +150,6 @@ crypto drainers
 crypto exchanges
 crypto firms
 crypto funds
-crypto industry
 crypto investors
 crypto market
 crypto regulation
@@ -171,7 +160,6 @@ crypto wallets
 crypto winter
 cryptocurrencies
 cryptocurrency
-cryptocurrency payments
 cryptocurrency systems
 cryptocurrency transactions
 cryptocurrency wallet
@@ -241,7 +229,6 @@ economic incentives
 election fraud
 electoral process
 electronic arts
-elliptic curve cryptography
 emerdns
 encryption
 encryption algorithm
@@ -272,11 +259,9 @@ ethereum name service
 ethereum network
 ethereum protocol
 ethereum staking
-ethereum technology
 ethereum upgrades
 ethical standards
 euipo
-european union intellectual property office
 everledger
 exahashes
 exchange agreement
@@ -319,8 +304,6 @@ hexadecimal number
 high speed
 high-performance blockchain
 high-throughput
-high-throughput low-cost transaction experience
-horizontal scaling
 hot wallet
 http request
 human vote counting
@@ -356,21 +339,16 @@ intellectual property
 intermediaries
 international computer science institute
 international data corp
-international monetary fund
 internet of things
 interoperability
-investment in blockchain technology
 investor sentiment
-inward scaling
 iot
-iot applications
 iso technical committee
 item id
 key
 key exchange
 keypair
 keypairs
-know your customer
 krafton
 kyc standards
 l1
@@ -378,13 +356,11 @@ lamport
 lamports
 launder the funds
 layer 1 chains
-layer 1 verification
 layer 2 solutions
 layered scaling
 ledger
 ledger size
 legal contracts
-legal status of smart contracts
 legal tender
 legal uncertainties
 level
@@ -457,7 +433,6 @@ offline wallet
 okx ventures
 on-chain support level
 open blockchains
-open public blockchains
 open-source software
 operator tampering
 oracle 21c database
@@ -468,15 +443,12 @@ orphan blocks
 p2e
 parallel processing
 parametric insurance
-participant access
 payment rail
 peer-to-peer computer computations
 peer-to-peer decentralized database applications
 peer-to-peer energy trading
 peer-to-peer insurance
 peer-to-peer network
-peer-to-peer p2p computer network
-permanent public transparent ledger
 permission blockchains
 permissioned blockchain
 permissioned blockchains
@@ -486,7 +458,6 @@ personal banking
 phantom wallet
 phishing tool
 physical deed
-play-to-earn games
 player id
 polkadot
 polygon
@@ -513,12 +484,10 @@ programs
 proof of concept
 proof of work
 proof-of-stake
-proof-of-stake algorithm
 proof-of-stake network
 proof-of-work
 proof-of-work algorithm
 proof-of-work model
-proof-of-work network
 proof-of-work system
 property dispute
 property ownership
@@ -547,7 +516,6 @@ record
 record keeping
 recovery
 redundancy
-redundant computation
 reference architecture
 registrar
 regulation of cryptocurrencies
@@ -568,11 +536,9 @@ secret key
 secret key holder
 secure hash-based history
 secure transaction signing
-secure voting
 securities and exchange commission
 security
 security token offerings
-seed phrase
 self-custody
 sell-offs
 serialization
@@ -601,20 +567,17 @@ solana runtime
 solana wallet
 solana wallet addresses
 solana/web3.js
-solanaвђ™s wallet-adapter
 stake
 stake network
 staked eth
 staked ether
 stakers
 staking
-staking rewards
 standards
 state identifications
 steam digital storefront
 sth
 stock traders
-storing crypto
 stos
 struct
 supermajority decision
@@ -626,10 +589,8 @@ swap cryptocurrencies
 symmetric cryptography
 symmetric cryptography algorithms
 symmetric encryption
-take-two interactive
 taproot
 target hash
-taxes on staking
 temporary fork
 temporary wallet
 terawatt-hours
@@ -655,9 +616,7 @@ transaction contents
 transaction data
 transaction fees
 transaction information
-transaction per second
 transaction proposals
-transaction submission
 transactions
 transparency
 transparent
@@ -672,7 +631,6 @@ ultra-scalability
 unique hash
 unique identifiers
 united nations economic commission
-unsigned 256-bit integer
 unstoppable domains
 untraceable cash
 user privacy
@@ -685,7 +643,6 @@ value
 value-exchange protocol
 variant
 verification process
-vertical scaling
 viable smart contract systems
 virtual currencies
 virtual items
