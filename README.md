@@ -15,7 +15,7 @@ Matcha is a manually annotated dataset for term extraction, covering 2 languages
 | Language | Domain            | Documents | Terms |
 |----------|--------------------|-----------|-------|
 | english  | Blockchain        | 6         | 668   |
-|          | Material Science  | 7         | 375   |
+| english  | Material Science  | 7         | 375   |
 | kazakh   | Blockchain        | 6         | 668   |
-|          | Material Science  | 7         | 375   |
+| kazakh   | Material Science  | 7         | 375   |
 
