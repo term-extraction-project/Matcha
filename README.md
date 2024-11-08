@@ -22,11 +22,11 @@ Matcha
 ├── sources.txt  
 │  
 ├── en  
-│   ├── block  
+│   └── block  
 │      ├── annotated  
 │      │   ├── annotations  
-│      │   │   ├── unique_annotation_lists  
-│      │   │   │   └── block_en_terms.txt  
+│      │   │   └── unique_annotation_lists  
+│      │   │      └── block_en_terms.txt  
 │      │   │  
 │      │   └── texts  
 │      │       ├── block_en_01.txt  
