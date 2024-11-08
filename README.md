@@ -18,7 +18,6 @@ The repository of each domain has folders “texts” and “annotations”. The
 
 ```
 Matcha
-
 ├── README.md  
 ├── sources.txt  
 │  
