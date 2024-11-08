@@ -2,12 +2,6 @@
 ## 1. General
 Matcha is a manually annotated dataset for term extraction, covering 2 languages (English and Kazakh), and 2 domains (Blockchain and Material Science).
 
-**Readme structure:**
-1. General
-2. Abbreviations
-3. Data Structure
-4. Annotations
-
 
 ## 2. Abbreviations
 **Languages:**
