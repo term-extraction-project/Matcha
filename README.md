@@ -23,20 +23,20 @@ Matcha
 │  
 ├── en  
 │   ├── block  
-│   │   ├── annotated  
-│   │   │   ├── annotations  
-│   │   │   │   ├── unique_annotation_lists  
-│   │   │   │   │   └── block_en_terms.txt  
-│   │   │   │  
-│   │   │   └── texts  
-│   │   │       ├── block_en_01.txt  
-│   │   │       ├── block_en_02.txt  
-│   │   │       ├── ...  
-│   │   │       └── block_en_06.txt  
-│   │   │  
-│   │   └── material_sci (equivalent to "block")  
-│   │  
-│   └── ... (other directories)  
+│      ├── annotated  
+│      │   ├── annotations  
+│      │   │   ├── unique_annotation_lists  
+│      │   │   │   └── block_en_terms.txt  
+│      │   │  
+│      │   └── texts  
+│      │       ├── block_en_01.txt  
+│      │       ├── block_en_02.txt  
+│      │       ├── ...  
+│      │       └── block_en_06.txt  
+│      │  
+│      └── material_sci (equivalent to "block")  
+│    
+│   
 │  
 └── kaz (equivalent to "en")  
 ```
