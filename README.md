@@ -28,7 +28,6 @@ The repository of each domain has folders “texts” and “annotations”. The
 │   │   │   ├── annotations  
 │   │   │   │   ├── unique_annotation_lists  
 │   │   │   │   │   └── block_en_terms.txt  
-│   │   │   │   └── ...  
 │   │   │   │  
 │   │   │   └── texts  
 │   │   │       ├── block_en_01.txt  
