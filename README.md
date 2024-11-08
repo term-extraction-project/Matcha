@@ -13,7 +13,7 @@ Matcha is a manually annotated dataset for term extraction, covering 2 languages
 * "material_sci" = Material Science
 
 ## 3. Data Structure
-The Matcha repository is organized to provide easy access to textual data and annotations in the domains of Blockchain Technology and Material Science. At the top level, it includes essential documentation files such as README.md and sources.txt. The repository features annotated text files and a list of unique terms extracted from the data. The repository also provides a mirrored structure in the Kazakh language, ensuring broader accessibility for users.
+The Matcha repository is organized to provide easy access to textual data and annotations in the domains of Blockchain Technology and Material Science. At the top level, it includes essential documentation files such as README.md and sources.txt. The repository features annotated text files and a list of unique terms extracted from the data. The repository also provides a mirrored structure in the Kazakh language.
  
 ```
 Matcha
