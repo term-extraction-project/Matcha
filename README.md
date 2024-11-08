@@ -15,6 +15,8 @@ Matcha is a manually annotated dataset for term extraction, covering 2 languages
 ## 3. Data Structure
 The repository of each domain has folders “texts” and “annotations”. The “texts” folder contains documents containing textual information about the blockchain. The “annotations” folder contains a list of manually extracted unique terms.
 
+
+```
 # Matcha
 
 ├── README.md  
@@ -39,7 +41,7 @@ The repository of each domain has folders “texts” and “annotations”. The
 │   └── ... (other directories)  
 │  
 └── kaz (equivalent to "en")  
-
+```
 
 
 ## 4. Annotations 
