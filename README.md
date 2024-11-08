@@ -21,24 +21,24 @@ Matcha
 ├── sources.txt  
 │  
 ├── en  
-│   └── block  
-│      ├── annotated  
-│      │   ├── annotations  
-│      │   │   └── unique_annotation_lists  
-│      │   │      └── block_en_terms.txt  
-│      │   │  
-│      │   └── texts  
-│      │       ├── block_en_01.txt  
-│      │       ├── block_en_02.txt  
-│      │       ├── ...  
-│      │       └── block_en_06.txt  
-│      │  
-│      └── material_sci (equivalent to "block")  
+│   ├── block  
+│   │   └── annotated  
+│   │      ├── annotations  
+│   │      │   └── unique_annotation_lists  
+│   │      │       └── block_en_terms.txt  # Contains unique terms extracted from the text  
+│   │      └── texts  
+│   │          ├── block_en_01.txt  # Annotated text document  
+│   │          ├── block_en_02.txt  
+│   │          ├── ...  
+│   │          └── block_en_06.txt  
+│   │  
+│   └── material_sci  (equivalent to "block")  
 │    
 │   
 │  
 └── kaz (equivalent to "en")  
 ```
+
 
 
 ## 4. Annotations 
