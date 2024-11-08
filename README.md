@@ -42,7 +42,7 @@ Matcha
 
 
 ## 4. Annotations 
-In the blockchain domain, there are 6 documents with 668 total extracted terms for English and 6 documents with 511 total extracted terms for Kazakh. In the materials science domain there are 7 documents with 375 terms extracted for the English language.
+In the blockchain domain, there are 6 documents with 668 total extracted terms for English and 6 documents with 511 total extracted terms for Kazakh language. In the materials science domain there are 7 documents with 375 terms extracted for the English language.
 | Language | Domain            | Documents | Terms | Words | Characters |
 |----------|--------------------|-----------|-------|-------|------------|
 | english  | Blockchain        | 6         | 668   | 18478 | 115774     |
