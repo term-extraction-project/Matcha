@@ -16,7 +16,7 @@ Matcha is a manually annotated dataset for term extraction, covering 2 languages
 ## 3. Structure
 The repository of each domain has folders “texts” and “annotations”. The “texts” folder contains documents containing textual information about the blockchain. The “annotations” folder contains a list of manually extracted unique terms.
 
-## 4. Statistics
+## 4. Corpus counts 
 In the blockchain domain, there are 6 documents with 668 total extracted terms for English and 6 documents with 511 total extracted terms for Kazakh. In the materials science domain there are 7 documents with 375 terms extracted for the English language.
 | Language | Domain            | Documents | Terms | Words | Characters |
 |----------|--------------------|-----------|-------|-------|------------|
