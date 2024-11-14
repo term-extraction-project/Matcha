@@ -25,7 +25,7 @@ Matcha
 │   │   └── annotated  
 │   │      ├── annotations  
 │   │      │   └── unique_annotation_lists  
-│   │      │       └── block_en_terms.txt  # Contains unique terms extracted from the text  
+│   │      │       └── block_en_terms.csv  # Contains unique terms extracted from the text  
 │   │      └── texts  
 │   │          ├── block_en_01.txt  # Annotated text document  
 │   │          ├── block_en_02.txt  
