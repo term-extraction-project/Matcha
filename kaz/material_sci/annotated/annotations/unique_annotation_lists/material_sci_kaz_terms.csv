@@ -4,14 +4,11 @@ Words;Status
 cканерлеуші туннельдік микроскопия;Term
 cканерлеуші электронды микроскопия;Term
 Fd3m кеңістіктік тобы;Term
-FIB;Abb
 M6C типті карбид;Term
 M6C қатты карбиді;Term
 MC типті карбидтер;Term
 MoS2;Abb
-PECVD;Abb
 R6M5;Abb
-XRD;Abb
 адгезия;Term
 аддитивті өндіріс;Term
 Азот мартенситі;Term
@@ -194,7 +191,6 @@ XRD;Abb
 Полимерлі нанокомпозиттер;Term
 Пьезоэлектрлік керамика;Term
 Пьезоэлектрлік материалдар;Term
-ПЭТ;Abb
 Реактивті ионды улау;Term
 рентгендік дифракцияны талдау;Term
 Рентгендік фотоэлектрондық спектроскопия;Term
@@ -340,7 +336,6 @@ Prem Ananth.M;Named Entity
 Ричард Стрибек;Named Entity
 Sagbas;Named Entity
 Spikes;Named Entity
-Стрибек қисығын;Named Entity
 Tysoe;Named Entity
 Vakis;Named Entity
 Wojciechowski;Named Entity
