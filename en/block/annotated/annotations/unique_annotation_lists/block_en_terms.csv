@@ -15,7 +15,7 @@ absolute finality;Term
 Accenture;Named Entity
 access control;Term
 access restrictions;Term
-Accessibility;Term
+accessibility;Term
 account;Term
 accounts;Term
 active Bitcoin users;Term
@@ -31,7 +31,7 @@ alternative DNS root;Term
 Android;Named Entity
 Annie Li;Named Entity
 anonymous;Term
-Anti-Counterfeiting Blockathon Forum;Term
+Anti-Counterfeiting Blockathon Forum;Named Entity
 anti-counterfeiting infrastructure;Term
 Apple App Store;Named Entity
 arbitrary data;Term
@@ -92,7 +92,7 @@ block header;Term
 block header hash;Term
 block producer;Term
 block size debate;Term
-Block time;Term
+block time;Term
 Blockathon;Named Entity
 blockchain;Term
 blockchain application;Term
@@ -130,7 +130,7 @@ blockchain wallets;Term
 blockchain-backed system;Term
 blockchain-based alternative;Term
 blockchain-based games;Term
-Blockchain-based smart contracts;Term
+blockchain-based smart contracts;Term
 blockchain-based tracking service;Term
 blockchain-enabled cryptocurrencies;Term
 blockchain-like protocol;Term
@@ -153,7 +153,7 @@ byte buffer;Term
 Byzantine fault tolerance;Term
 Byzantine fault tolerance-based proof-of-stake;Term
 California;Named Entity
-Cambridge;Term
+Cambridge;Named Entity
 Cambridge University;Named Entity
 capella;Term
 Capital Markets Board;Named Entity
@@ -216,7 +216,7 @@ crypto confidence;Term
 crypto drainer;Term
 Crypto Drainer Attacks;Term
 crypto drainers;Term
-Crypto Ecosystem;Term
+crypto ecosystem;Term
 crypto events;Term
 crypto exchanges;Term
 crypto firms;Term
@@ -315,7 +315,7 @@ document timestamps;Term
 dollar cost averaging;Term
 dollar cost averaging strategy;Term
 domain name services;Term
-Domain names;Term
+domain names;Term
 Dora Yue;Named Entity
 double-spending;Term
 double-spending problem;Term
@@ -345,7 +345,7 @@ ENS;Abb
 entities;Term
 entry;Term
 entry point;Term
-EOS;Term
+EOS;Abb
 EOS ecosystem;Term
 EOS Mainnet;Term
 EOS Nation;Term
@@ -355,7 +355,7 @@ EOS Network stakeholders;Term
 EOSIO;Abb
 Epic Games;Named Entity
 Epic Games Store;Named Entity
-Epic Games Store;Term
+Epic Games Store;Named Entity
 ETF;Abb
 ETF inflow;Term
 ETF inflows;Term
@@ -386,7 +386,6 @@ exchange agreement;Term
 exchange outflows;Term
 Exchange-Traded Funds;Named Entity
 execution side;Term
-Explorer site;Term
 exSat;Named Entity
 external liaisons;Term
 Fair Trade;Named Entity
@@ -433,15 +432,16 @@ Google Play Store;Named Entity
 governance;Term
 gray market;Term
 Haber;Named Entity
+Handshake Network;Named Entity
 Hangzhou Internet Court;Named Entity
 hard fork;Term
-Hard forks;Term
+hard forks;Term
 Hardware wallets;Term
 hash;Term
 hash-based history;Term
 Hashcash;Term
 hashed;Term
-Hashing;Term
+hashing;Term
 hashing algorithm;Term
 hexadecimal number;Term
 high speed;Term
@@ -539,7 +539,7 @@ legal tender;Term
 licensing system;Term
 lightweight blockchain-based network;Term
 Lightweight blockchains;Term
-Linux Foundation;Term
+Linux Foundation;Named Entity
 liquidity assets;Term
 liquidity pools;Term
 litecoin;Term
@@ -627,9 +627,9 @@ nonce of zero;Term
 npm;Term
 NXT;Abb
 Nxt community;Named Entity
-OASIS;Term
+OASIS;Abb
 offline wallet;Term
-OKX;Term
+OKX;Abb
 OKX Ventures;Named Entity
 on-chain support level;Term
 onchain;Term
@@ -643,13 +643,13 @@ Oracle 21c;Named Entity
 Oracle 21c database;Named Entity
 Ordinals;Named Entity
 Ordinals trading community;Named Entity
-Organization for the Advancement of Structured Information Standards;Term
+Organization for the Advancement of Structured Information Standards;Named Entity
 organizational efficiency;Term
 orphan blocks;Term
 overhyped technology;Term
 P2E;Abb
 P2P;Term
-Pakistan;Term
+Pakistan;Named Entity
 parallel processing;Term
 parametric insurance;Term
 password manager;Term
@@ -695,7 +695,7 @@ private key;Term
 private key theft;Term
 private keys;Term
 private STOs;Term
-Private Transactions;Term
+private transactions;Term
 pro-crypto;Term
 probabilistic finality;Term
 Producer Price Index;Term
@@ -776,7 +776,7 @@ scalability problems;Term
 scammers;Term
 scams;Term
 scripts;Term
-SEC;Term
+SEC;Abb
 second tier suppliers;Term
 secret key;Term
 secret key holder;Term
@@ -806,7 +806,7 @@ short-term holders;Term
 sidechain;Term
 Siemens;Named Entity
 signature;Term
-Signatures;Term
+signatures;Term
 Silk Road;Named Entity
 simplified blockchains;Term
 skin gambling;Term
@@ -832,7 +832,7 @@ Solana wallet addresses;Term
 solana/web3.js;Term
 Solana’s Wallet-Adapter;Named Entity
 solar power;Term
-Solidity;Term
+Solidity;Named Entity
 South Korean;Named Entity
 spread;Term
 spreadsheets;Term
@@ -850,7 +850,7 @@ state identifications;Term
 Steam;Named Entity
 Steam digital storefront;Named Entity
 STH;Abb
-STO;Term
+STO;Abb
 stock traders;Term
 store;Term
 Stornetta;Named Entity
@@ -879,9 +879,10 @@ temporary fork;Term
 temporary wallet;Term
 Terrill Dicki;Named Entity
 The Handshake Network;Named Entity
+The Handshake Network;Named Entity
 The New York Times;Named Entity
 The Wall Street Journal;Named Entity
-The World Bank;Term
+The World Bank;Named Entity
 third-party verification;Term
 throughput;Term
 Tim Harford;Named Entity
@@ -928,7 +929,7 @@ two factor authentication;Term
 Two-Factor Authentication;Term
 Türkiye;Named Entity
 U.S.;Abb
-U.S.;Term
+U.S.;Abb
 U.S. Institute of Museum and Library Services;Named Entity
 Ubisoft;Named Entity
 UBS;Named Entity
