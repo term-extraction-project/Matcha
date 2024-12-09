@@ -3,12 +3,9 @@ Words;Status
 .eth;Term
 .kred;Term
 .luxe;Term
-16-bit;Term
-256-bit;Term
 2FA;Abb
 51 percent;Term
 51% attack;Term
-8-bit;Term
 @coral-xyz/borsh;Term
 @solana/web3.js;Term
 absolute finality;Term
@@ -24,7 +21,6 @@ addresses;Term
 AES;Abb
 AIG;Abb
 algorithm;Term
-alternate consensus algorithm;Term
 alternative DNS root;Term
 Android;Named Entity
 Annie Li;Named Entity
@@ -47,7 +43,6 @@ Axie Infinity;Named Entity
 Bank for International Settlements;Named Entity
 base-58 encoded;Term
 base-58 encoded strings;Term
-battery cell manufacturers;Term
 BBC World Service;Named Entity
 Beijing;Named Entity
 Berenberg;Named Entity
@@ -108,7 +103,6 @@ blockchain solutions;Term
 blockchain system;Term
 blockchain systems;Term
 blockchain table;Term
-blockchain table feature;Term
 blockchain technologies;Term
 blockchain technology;Term
 blockchain technology company;Term
@@ -157,11 +151,9 @@ Chacha20;Named Entity
 Chainalysis;Named Entity
 Chamber of Digital Commerce;Named Entity
 China;Named Entity
-CIOs;Abb
 client;Term
 client-side code;Term
 CO2;Term
-collaborative effort;Term
 company shares;Term
 computational mistake;Term
 computational power;Term
@@ -277,7 +269,6 @@ drainers;Term
 DSOs;Abb
 DTC;Abb
 Dutch Standardisation organisation;Named Entity
-E. coli;Term
 ECC;Abb
 economic finality;Term
 economic incentives;Term
@@ -334,10 +325,8 @@ execution side;Term
 exSat;Named Entity
 external liaisons;Term
 Fair Trade;Named Entity
-fashion industry;Term
 fault;Term
 FBI;Abb
-fees;Term
 finality;Term
 finalized;Term
 Financial institutions;Term
@@ -402,7 +391,6 @@ illicit purchases;Term
 illicit transactions;Term
 IMF;Abb
 immutable;Term
-immutable feature;Term
 immutably record;Term
 Imogen Heap;Named Entity
 in-game currency;Term
@@ -453,20 +441,16 @@ Lamport;Named Entity
 Lamports;Named Entity
 launder the funds;Term
 Layer 1 chains;Term
-Layer 2 solutions;Term
 layered scaling;Term
 ledger;Term
 ledger size;Term
 legal contracts;Term
 legal tender;Term
-legal uncertainties;Term
-level;Term
 licensing system;Term
 lightweight blockchain-based network;Term
 Lightweight blockchains;Term
 liquidity pools;Term
 long-term holders;Term
-low fees;Term
 low-cost transaction experience;Term
 Magic Eden;Named Entity
 main chain;Term
@@ -478,7 +462,6 @@ Mark Cuban;Named Entity
 market cap;Term
 market sentiment;Term
 market volatility;Term
-massive group mining effort;Term
 matching private key;Term
 matching public key;Term
 medical records;Term
@@ -500,7 +483,6 @@ Monero;Named Entity
 money laundering;Term
 Moni Naor;Named Entity
 mortgage rates;Term
-Motor vehicles;Named Entity
 multiple blockchains;Term
 multiversion concurrency control;Term
 music distribution;Term
@@ -539,7 +521,6 @@ non-fungible tokens;Term
 nonce;Term
 NXT;Abb
 Nxt community;Named Entity
-official;Term
 offline wallet;Term
 OKX Ventures;Named Entity
 on-chain support level;Term
@@ -639,7 +620,6 @@ reference architecture;Term
 registrar;Term
 regulation of cryptocurrencies;Term
 regulator-approved blockchain reporting system;Term
-regulatory changes;Term
 regulatory oversight;Term
 reputable wallet;Term
 REST APIs;Named Entity
@@ -712,9 +692,7 @@ STH;Abb
 stock traders;Term
 Stornetta;Named Entity
 STOs;Abb
-struct;Term
 Stuart Haber;Named Entity
-supermajority decision;Term
 supply chain monitoring;Term
 Supply Chains;Term
 Surety;Named Entity
@@ -731,7 +709,6 @@ Taproot;Named Entity
 target hash;Term
 temporary fork;Term
 temporary wallet;Term
-terawatt-hours;Term
 Terrill Dicki;Named Entity
 The Handshake Network;Named Entity
 third-party verification;Term
@@ -798,14 +775,11 @@ valid transactions;Term
 validate transactions;Term
 validator;Term
 validator access;Term
-value;Term
 value-exchange protocol;Term
 Valve;Named Entity
 Valve Corporation;Named Entity
 VanEck;Named Entity
-variant;Term
 verification process;Term
-viable smart contract systems;Term
 virtual currencies;Term
 virtual items;Term
 Visa;Named Entity
