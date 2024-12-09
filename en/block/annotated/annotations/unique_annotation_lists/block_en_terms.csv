@@ -433,7 +433,6 @@ Google Play Store;Named Entity
 governance;Term
 gray market;Term
 Haber;Named Entity
-Handshake Network;Named Entity
 Hangzhou Internet Court;Named Entity
 hard fork;Term
 Hard forks;Term
@@ -880,8 +879,7 @@ temporary fork;Term
 temporary wallet;Term
 Terrill Dicki;Named Entity
 The Handshake Network;Named Entity
-The Handshake Network;Term
-The New York Times;Term
+The New York Times;Named Entity
 The Wall Street Journal;Named Entity
 The World Bank;Term
 third-party verification;Term
