@@ -1,163 +1,103 @@
-Artcle 1 (https://blockchain.news/news/bitcoin-displays-potential-stability-amidst-global-economic-uncertainty) 
+Article 4. Our top 5 crypto resolutions 
 
-Bitcoin Displays Potential Stability Amidst Global Economic Uncertainty 
+https://medium.com/blockchain/our-top-5-crypto-resolutions-d58fe079bf49  
 
-Bitcoin shows signs of stability with increased exchange outflows and ETF inflows, despite ongoing macroeconomic challenges. 
+Make 2023 your best year in crypto 
 
-Rebeca Moen 
+What a year this has been for the crypto community! Despite the controversy and challenges that 2022 has brought, the New Year is upon us and we think the future is bright for crypto. 
 
-May 20, 2024 13:37 
+For a fresh start in 2023, we’ve got five crypto resolutions for you to take on this year. Like all resolutions, it’s best not to overcommit, so decide what’s right for you, make a plan, and stick to it. 
 
-Bitcoin's Stability amid Global Economic Challenges 
+Here’s the top five crypto resolutions for 2023: 
 
-According to a recent post on Bitfinex Alpha, Bitcoin (BTC) has shown signs of potential stability amidst global economic uncertainty. The cryptocurrency achieved its highest daily close last week since April 12th, following a softer-than-expected Consumer Price Index (CPI) inflation report. BTC was up 7.54% on the day and 8.7% on the week. This increase was further supported by exchange outflows amounting to 55,000 BTC, indicating a supportive market sentiment and reinforcing the view that a bottom for the Bitcoin price has been reached. 
+Your keys, your crypto 
 
-Bitcoin ETFs Witness Net Inflows 
+If 2022 taught us anything, it’s that having control of your private keys is essential. 
 
-Bitcoin Exchange-Traded Funds (ETFs) also saw net inflows of $948.3 million over the past week, reversing recent weeks of outflows. This trend suggests increased confidence in Bitcoin's stability, particularly as long-term holders maintain their positions and “new whales” accumulate BTC around the $60,000 mark, establishing it as a significant on-chain support level. Even short-term holders (STH), whose portion of the supply has increased from 19% at the beginning of the year to 26.1%, currently have an average cost basis of approximately $61,046, making this an essential level to maintain to avoid triggering sell-offs. 
+A custodial wallet is useful, but there’s obviously counterparty risk involved. While a custodial wallet can be useful for using fiat currency to purchase crypto, there’s obviously counterparty risk involved in storing your crypto there. 
 
-Global Economic Challenges 
+Using a non-custodial wallet to hold your crypto is more secure, since you control your private keys and hold your seed (recovery) phrase. This means that you can always access your assets, without permission from a third-party. 
 
-Despite these positive trends in the crypto market, the global economy continues to face challenges. The CPI report for April indicated some signs of disinflation, with a 0.3% month-on-month (MoM) increase and a 3.4% increase year-on-year (YoY). However, the Producer Price Index for April rose by 0.5% due to higher service costs, suggesting persistent inflation. The housing market and manufacturing sector also continue to face challenges, with builder sentiment dropping due to high mortgage rates and industrial production stagnating. 
+Here are three security steps you can take today: 
 
-Crypto Regulation and Market Developments 
+First, self custody your crypto by moving it into a non-custodial wallet. With your Blockchain.com Account, you can do this in just a few steps as shown in this article. 
 
-On the regulatory front, Türkiye has introduced a legislative proposal to regulate crypto asset transactions. The bill, overseen by the Capital Markets Board, includes a licensing system for crypto firms and expanded regulatory oversight. Meanwhile, Pump.fun, a memecoin launchpad, experienced a $1.9 million exploit, allegedly by a former employee using flash loans. The breach led to a temporary halt in trading, and the platform restored affected liquidity pools within 24 hours. 
+Then, set up two factor authentication for all of your accounts. This extra layer of security helps prevent unauthorized logins. 
 
-Future Outlooks 
+Here’s how you enable 2FA on Blockchain.com: 
 
-The US Securities and Exchange Commission faces imminent deadlines for Ether ETF applications from VanEck and ARK. Approval appears unlikely due to the complexities of Ethereum's technology and ongoing legal uncertainties. The SEC's decisions could set important precedents for other digital assets in public markets. Despite these challenges, the cryptocurrency market continues to evolve, with Bitcoin leading the way in demonstrating potential stability amidst ongoing global economic uncertainty. 
+On desktop: 
 
- 
+Click the person icon in the top right corner. 
 
-Article 2 (https://blockchain.news/news/bitcoin-displays-potential-stability-amidst-global-economic-uncertainty) 
+Click Security, then click Enable under Two-Factor Authentication. 
 
-OKX Ventures Invests in Bitcoin Layer 2 Solution, Bitlayer 
+Choose your preferred 2FA method and set it up. 
 
-OKX Ventures announces a strategic investment in Bitlayer, a Bitcoin Layer 2 solution based on BitVM. 
+On the app: 
 
-Jessie A Ellis 
+Tap the person icon in the top left corner. 
 
-May 20, 2024 11:41 
+Scroll down to Security and find 2FA. 
 
-OKX Ventures Invests in Bitlayer 
+Use the toggle switch to enable 2FA. 
 
-OKX Ventures, the investment arm of the leading crypto exchange and Web3 technology company OKX, has announced a strategic investment in Bitlayer. Bitlayer is the first Bitcoin (BTC) security-equivalent Layer 2 based on BitVM. 
+Finally, use a dedicated password manager to create unique passwords and store them securely. 
 
-Bitlayer's Aim 
+While we don’t recommend keeping your private keys or recovery phrase in a password manager, they are your best option for account login information. 
 
-Bitlayer aims to scale the Bitcoin network's transaction capability. The company supports the Taproot and BitVM technologies and has adopted the Discreet Log Contract (DLC) framework. The DLC framework allows Bitlayer to handle more conditional financial applications securely. 
+Take a long-term view 
 
-Bitcoin's Dominance 
+After 11 years in crypto, we’ve seen volatile periods before, and while no one knows what the future holds, we’re confident that crypto is part of it. 
 
-Over the past 15 years, Bitcoin has dominated 53.4% of the more than 2.28 trillion crypto assets. Ethereum contributed 15.8%, with its Total Value Locked (TVL) exceeding $90 billion. Layer 2 solutions have scaled to $39 billion. The momentum brought by the Ordinals, Runes, and BRC-20 protocols are evident, with Runes and Ordinals reaching a market cap of over $700 million and $33 million, respectively. This equates to approximately $418 million in total fees. Moreover, over 11.39 million active Bitcoin users are seeking diverse interactions within the Bitcoin network. 
+One way to take some of the emotion out of things is by using a dollar cost averaging strategy to buy crypto. 
 
-Comments from OKX Ventures Founder 
+Dollar cost averaging is a strategy in which a user periodically purchases an asset, regardless of the asset’s price. 
 
-OKX Ventures Founder Dora Yue commented on the investment, 'Bitcoin has won trust through its development philosophy, designed around decentralization, trustlessness, and pseudonymity to maintain user privacy. OKX Ventures supports Bitcoin scaling specifically through vertical, horizontal, inward, and layered scaling in past investment portfolios. Bitlayer addresses the two main challenges in Bitcoin Layer 2: L1 verification and a trustless bridge. This is achieved by contributing to the BitVM community and project. Since the launch of Bitlayer Mainnet V1, it has accumulated $179,600 in fees last month and now also supports multiple bridges between Bitlayer and other Layer 1 chains, including Bitcoin/EVM chains. We look forward to seeing more Bitcoin amplifications like NFTs and other liquidity assets produced on Bitlayer.' 
+Purchasing in smaller amounts over time means that you’ll buy both when the price is high and when the price is low. In turn, this smooths out your average purchase price. 
 
-About Bitlayer 
+Learn more in Dollar Cost Averaging, Explained. 
 
-Bitlayer is the first Bitcoin Layer 2 solution based on the BitVM paradigm. Bitlayer's core objective is to address the trade-off between security (trustlessness) and Turing completeness in BTC layer 2 through cryptographic innovations and blockchain protocol engineering. Bitlayer is committed to becoming the computation layer for Bitcoin, aiming to introduce ultra-scalability to Bitcoin while inheriting its security, providing users with a high-throughput, low-cost transaction experience. 
+Learn something new 
 
-About OKX Ventures 
+The new year is a time for growth, and making learning a habit is a great way to do that. 
 
-OKX Ventures is the investment arm of global leading crypto exchange and Web3 technology company OKX, with an initial capital commitment of USD 100 million. It focuses on exploring the best blockchain projects on a global scale, supporting cutting-edge blockchain technology innovation, promoting the healthy development of the global blockchain industry, and investing in long-term structural value. Through its commitment to supporting entrepreneurs who contribute to the development of the blockchain industry, OKX Ventures helps build innovative companies and brings global resources and historical experience to blockchain projects. 
+Whether you read, listen, or watch, there is more information online than ever before that will help you learn the ins and outs of crypto. If you’ve never read the Bitcoin white paper, that could be a great place to start, and resources like Khan Academy offer full courses on crypto–for free. 
 
- 
+Did you know that we have a podcast and YouTube channel in addition to our blog? 
 
-Article 3 (https://blockchain.news/news/crypto-drainers-threat-bitcoin-cryptocurrencies) 
+You can check those out here: 
 
-Crypto Drainers: The Rising Threat to Bitcoin (BTC) and Other Cryptocurrencies 
+The Blockchain.com Podcast 
 
-A deep dive into the increasing threat of crypto drainers to Bitcoin and other cryptocurrencies, highlighting ways to avoid falling victim. 
+Blockchain.com on YouTube 
 
-Zach Anderson 
+Join a community 
 
-May 17, 2024 02:40 
+If you’re captivated by crypto, consider attending a conference, or joining a community of like-minded people. 
 
-Overview of Crypto Drainers 
+There are lots of crypto events coming in 2023, and plenty of meetups and social platforms to learn about more advanced crypto topics. 
 
-As the cryptocurrency market continues to evolve, so do the tactics employed by malicious actors to steal user funds. The latest threat, crypto drainers, has been gaining prevalence in recent years. In contrast to more conventional methods such as private key theft and smart contract exploitation, drainers pose as web3 projects to trick victims into granting them control of their crypto wallets. These scams have affected a wide range of users, with even high-profile figures like Mark Cuban and Seth Green falling prey. The amounts stolen can be staggering, with some drainers reportedly siphoning off several million dollars from their victims. Recently, Chainalysis shared insights into details of Crypto Drainers. 
+Be an advocate for crypto 
 
-Understanding How Crypto Drainers Operate 
+If you’re like most people, you heard about crypto for the first time from someone you know. 
 
-A crypto drainer is essentially a phishing tool designed for the web3 ecosystem. Instead of stealing usernames and passwords, the operators of these scams masquerade as legitimate web3 projects. They lure victims into connecting their crypto wallets to the drainer and approving transaction proposals, which effectively grant the scammers control of the funds in the victims' wallets. Following a successful attack, the drainers can instantly steal users' funds. The fraudulent web3 sites are often promoted in Discord communities and on compromised social media accounts. 
+Based on our 2022 crypto confidence survey, nearly 40% of respondents said they will discussing crypto with friends and family over the holidays. If you’ve come to believe that crypto is the future of finance, you can help inform others about this exciting world, too. 
 
-The Impact of Crypto Drainers on the Crypto Ecosystem 
+One way to do this is sharing articles from the Blockchain.com blog and then discussing those with your friends, or even online. 
 
-While it is challenging to ascertain the total amount stolen by crypto drainers due to underreporting, the available data suggests that the scale of these scams is significant. In fact, the quarterly growth rate in value stolen by drainers has outpaced that of ransomware, another fast-growing category of cybercrime. After stealing digital assets, the criminals typically rely on various crypto services to launder the funds or convert them into cash. There has been a noticeable increase in funds sent by drainers to mixing services since 2021, while the funds sent to centralized exchanges have decreased. Some drainers are also using gambling services, albeit on a smaller scale. 
+Which of these resolutions are on your list for the new year? Let us know on Twitter! 
 
-Bitcoin's Encounter with Crypto Drainers 
+How to get started 
 
-While most drainers currently operate within the Ethereum ecosystem, an unusual drainer exploiting the Bitcoin blockchain has been identified. This drainer created a fake web page posing as Magic Eden, the primary NFT platform for Bitcoin Ordinals. As of April 2024, this drainer has allegedly stolen approximately $500,000 in over 1,000 malicious transactions. Despite Bitcoin not being as widely used for web3 services as other assets, several other Bitcoin drainers have already targeted the Ordinals trading community. 
+If you want to get started using crypto, the first thing you’ll need to do is create a wallet. Without this, you won’t be able to purchase, store, or swap cryptocurrencies. 
 
-Preventing Crypto Drainer Attacks 
+Blockchain.com is the only platform that offers a custodial and non-custodial wallet in the same place, which makes managing your crypto that much simpler. 
 
-As the operators of crypto drainers become increasingly sophisticated, it is crucial for web3 projects and users to implement various security measures to guard against these scams. Web3 security extensions such as Wallet Guard can identify phishing pages and websites, and assess security risks associated with cryptocurrency wallets. Users can also reduce their exposure to drainers by using an offline wallet to store valuable or large volumes of assets, only transferring funds to a hot wallet when necessary. In addition, they should be wary of links promoted in chat rooms or on social media, which may not be associated with a project's official account. If a user needs to connect to an unfamiliar web3 site, they can create a temporary wallet that doesn't contain any assets and connect it to the site. If a victim's assets are stolen by a drainer, they can cancel incomplete transactions. 
+Create your wallet today at Blockchain.com. 
 
- 
+Important Note: This information is provided for informational purposes only and is not intended to substitute for obtaining accounting, tax or financial advice from a professional advisor. 
 
-Article 4 (https://blockchain.news/news/bitcoins-capabilities-to-be-extended-with-new-docking-layer-exsat) 
+The purchase of crypto entails risk. The value of crypto can fluctuate and capital involved in a crypto transaction is subject to market volatility and loss. 
 
-EOS: Bitcoin's Capabilities to be Extended with New 'Docking Layer' exSat 
-
-The EOS Network Foundation unveils the exSat whitepaper, a powerful new 'Docking Layer' set to extend Bitcoin's capabilities. 
-
-Terrill Dicki 
-
-May 16, 2024 06:54 
-
-EOS Network Foundation Unveils exSat Whitepaper 
-
-The EOS Network Foundation, led by Executive Director and Founder Yves La Rose, has revealed the whitepaper for exSat, a powerful new 'Docking Layer' designed to extend the capabilities of Bitcoin. La Rose, a consensus builder within the EOS ecosystem, has devoted his career to the success of the network. 
-
-La Rose's interest in technology sparked at a young age when he built his first computer and wrote his first program at seven. His fascination with technology was further amplified by the emergence of Bitcoin, which he started mining in 2010 while exploring the potential of decentralized networks. 
-
-From EOS Nation to EOS Network Foundation 
-
-After several years of business planning and analysis experience, La Rose began seriously considering an endeavor in the emerging blockchain industry in 2017. He co-founded EOS Nation in February 2018, which eventually became the top-rated block producer on the most valuable network using EOSIO, the EOS Mainnet. However, in May 2021, La Rose resigned as CEO of EOS Nation to pursue a new path. 
-
-Recognizing his unique position to unite the EOS Network stakeholders around a foundation working for all EOS token holders, La Rose founded the EOS Network Foundation. Since then, he has dedicated himself to benefit the EOS public blockchain and its global stakeholders. 
-
-Introducing exSat: Extending Bitcoin's Capabilities 
-
-The introduction of exSat marks a significant step in advancing Bitcoin's capabilities. The 'Docking Layer' is expected to bring new opportunities for users and further establish the potential of decentralized networks. Details about the potential applications and benefits of exSat will be further revealed in the whitepaper. 
-
- 
-
-With the launch of exSat, the EOS Network Foundation continues its commitment to the growth and success of the blockchain industry. The foundation continues to work towards unifying the global EOS community through mutual respect and empowerment, echoing La Rose's holistic approach forged from his experiences living and studying in Japan and travelling throughout Asia. 
-
- 
-
-Article 5 (https://blockchain.news/news/krafton-partners-with-solana-labs-to-develop-blockchain-based-games)  
-
-Krafton Partners with Solana Labs to Develop blockchain-based Games 
-
-Game developer for PC and mobile devices Krafton partners with Solana Labs to develop blockchain-based games and services in the Metaverse world. 
-
-Annie Li 
-
-Mar 28, 2022 09:05 
-
-Krafton Partners with Solana Labs to Develop blockchain-based Games 
-
-Game developer for PC and mobile devices Krafton partners with Solana Labs to develop blockchain-based games and services in the Metaverse world. 
-
-Krafton, stylized as KRAFTON which was formerly known as Bluehole, is a South Korean company that develops and distributes video games based in Bundang-gu, Seongnam. 
-
-The South Korean gaming giant hopes to boost its position in the market by developing a Metaverse "money-making" game using blockchain technology. 
-
-The company even made its wildly popular PUBG game free last year. PUBG is ranked among the top downloaded games on Steam and routinely has close to 10 million active users. 
-
-The lead executive of Web 3.0 Roundtable at Krafton, Hyungchul Park, said in a statement that: 
-
-“As one of the best global high-performance blockchain with strength in high speed and low fees, Solana represents the best of the Web 3.0 ecosystem and its technologies. Through this cooperation, KRAFTON will acquire the insight needed to accelerate its investment in and output of blockchain-based experiences.” 
-
-According to the agreement, KRAFTON and Solana Labs will establish a long-term partnership to develop and operate blockchain and NFT-based games and services. However, Krafton has yet to say whether it will integrate blockchain technology into existing games. 
-
-Compared to Ethereum’s Solidity language when developing play-to-earn (P2E) games, the ease of use of Solana’s building language- Rust will give Solana a competitive edge. 
-
-Solana has already rolled out $400 million to enhance Web3 gaming over the last six months. 
-
-(2182 words)  
+Digital currencies are not bank deposits, are not legal tender, and are not backed by the government. Blockchain.com’s products and services are not subject to any governmental or government-backed deposit protection schemes. Legislative and regulatory changes or actions in any jurisdiction in which Blockchain.com’s customers are located may adversely affect the use, transfer, exchange, and value of digital currencies. 
