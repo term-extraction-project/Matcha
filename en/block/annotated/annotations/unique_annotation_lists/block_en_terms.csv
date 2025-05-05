@@ -3,14 +3,9 @@ Words;Status
 .eth;Term
 .kred;Term
 .luxe;Term
-16-bit integer;Term
-256-bit integer;Term
 2FA;Abb
 51 percent;Term
 51% attack;Term
-8-bit integer;Term
-@coral-xyz/borsh;Term
-@solana/web3.js;Term
 absolute finality;Term
 Accenture;Named Entity
 access control;Term
@@ -27,14 +22,13 @@ addresses;Term
 AES;Abb
 AIG;Abb
 algorithm;Term
-alternative DNS root;Term
+DNS root;Term
 Android;Named Entity
 Annie Li;Named Entity
 anonymous;Term
 Anti-Counterfeiting Blockathon Forum;Named Entity
 anti-counterfeiting infrastructure;Term
 Apple App Store;Named Entity
-arbitrary data;Term
 Argentina;Named Entity
 ARK;Abb
 ASCAP;Abb
@@ -44,7 +38,6 @@ assets;Term
 asymmetric cryptography;Term
 asymmetric encryption;Term
 atomic;Term
-authenticated;Term
 authentication;Term
 authority;Term
 automated escrow;Term
@@ -53,8 +46,6 @@ back office;Term
 bank account,;Term
 Bank for International Settlements;Named Entity
 bank transfer;Term
-base-58 encoded;Term
-base-58 encoded strings;Term
 BBC World Service;Named Entity
 Beijing;Named Entity
 Berenberg;Named Entity
@@ -103,7 +94,6 @@ blockchain engines;Term
 blockchain explorers;Term
 blockchain game;Term
 blockchain games;Term
-blockchain interoperability;Term
 blockchain ledger;Term
 blockchain mining;Term
 blockchain network;Term
@@ -121,17 +111,12 @@ blockchain systems;Term
 blockchain table;Term
 blockchain technologies;Term
 blockchain technology;Term
-blockchain technology company;Term
-blockchain technology innovation;Term
-blockchain terminology;Term
 blockchain tracking services;Term
 blockchain transactions;Term
 blockchain wallets;Term
 blockchain-backed system;Term
-blockchain-based alternative;Term
 blockchain-based games;Term
 blockchain-based smart contracts;Term
-blockchain-based tracking service;Term
 blockchain-enabled cryptocurrencies;Term
 blockchain-like protocol;Term
 blockchains;Term
@@ -148,7 +133,6 @@ BTC layer 2;Term
 bullish;Term
 Bundang-gu;Named Entity
 business value;Term
-byte array;Term
 byte buffer;Term
 Byzantine fault tolerance;Term
 Byzantine fault tolerance-based proof-of-stake;Term
@@ -194,13 +178,10 @@ consensus protocol;Term
 consensus-based distributed blockchains;Term
 consortium blockchain;Term
 consortium blockchains;Term
-consortium members;Term
 consumer crypto investors;Term
 Consumer Price Index;Term
 contracts;Term
 contractual obligations;Term
-corporate investment;Term
-cost basis;Term
 counterfeits;Term
 counterparty risk;Term
 COVID-19;Named Entity
@@ -210,7 +191,7 @@ credit card;Term
 cross-border trades;Term
 cross-border transactions;Term
 crypto;Term
-crypto asset transactions;Term
+crypto asset;Term
 crypto community;Term
 crypto confidence;Term
 crypto drainer;Term
@@ -236,13 +217,11 @@ cryptocurrencies;Term
 cryptocurrency;Term
 cryptocurrency market;Term
 cryptocurrency systems;Term
-cryptocurrency transactions;Term
 cryptocurrency wallet;Term
 cryptocurrency wallets;Term
 Cryptographer;Term
 cryptographic hash;Term
 cryptographic hashes;Term
-cryptographic innovations;Term
 cryptography;Term
 CryptoKitties;Named Entity
 currency;Term
@@ -285,7 +264,6 @@ DeFi Wallet;Term
 democratic elections;Term
 deposit protection schemes;Term
 Diamond Trading Company;Named Entity
-difficulty target;Term
 Digiconomist;Named Entity
 digital asset;Term
 digital assets;Term
@@ -296,7 +274,6 @@ Discord;Named Entity
 Discord communities;Term
 Discreet Log Contract;Term
 disinflation;Term
-distributed;Term
 distributed computing system;Term
 distributed database;Term
 distributed ledger;Term
@@ -310,12 +287,10 @@ DLT;Abb
 DNS;Abb
 Docking Layer;Term
 document timestamps;Term
-dollar cost averaging;Term
 dollar cost averaging strategy;Term
 domain name services;Term
 domain names;Term
 Dora Yue;Named Entity
-double-spending;Term
 double-spending problem;Term
 drainer;Term
 drainers;Term
@@ -371,7 +346,6 @@ Ethereum Name Service;Named Entity
 Ethereum network;Term
 Ethereum protocol;Term
 Ethereum staking;Term
-Ethereum upgrades;Term
 ethical standards;Term
 EUIPO;Abb
 European Commission;Named Entity
@@ -384,7 +358,6 @@ exchange outflows;Term
 Exchange-Traded Funds;Named Entity
 execution side;Term
 exSat;Named Entity
-external liaisons;Term
 Fair Trade;Named Entity
 farm-to-user journey;Term
 fault;Term
@@ -463,7 +436,6 @@ illicit purchases;Term
 illicit transactions;Term
 IMF;Abb
 immutability;Term
-immutable;Term
 immutably record;Term
 Imogen Heap;Named Entity
 in-game currency;Term
@@ -499,7 +471,6 @@ IoT;Abb
 irreversible;Term
 ISO Technical Committee;Named Entity
 ISO Technical Committee 307;Named Entity
-item ID;Term
 ITU;Abb
 Janet Yellen;Named Entity
 Japan;Named Entity
@@ -570,7 +541,6 @@ miner;Term
 mining;Term
 mining nodes;Term
 mixing services;Term
-modern voting system;Term
 Monax;Named Entity
 Monero;Named Entity
 monetization;Term
@@ -578,9 +548,7 @@ money laundering;Term
 money-making;Term
 Moni Naor;Named Entity
 mortgage rates;Term
-multiple blockchains;Term
 multiversion concurrency control;Term
-music distribution;Term
 mutual respect;Term
 MVCC;Abb
 Mycelia;Named Entity
@@ -594,10 +562,7 @@ net inflows;Term
 Netherlands;Named Entity
 network;Term
 network administrators;Term
-network update;Term
-network upgrade;Term
 network users;Term
-new transaction blocks;Term
 new whales;Term
 NFT;Abb
 NFT collections;Term
@@ -670,7 +635,6 @@ phishing tool;Term
 physical ballots;Term
 physical deed;Term
 play-to-earn;Term
-player ID;Term
 Polkadot;Named Entity
 Polygon;Named Entity
 PoW;Abb
@@ -693,7 +657,6 @@ pro-crypto;Term
 probabilistic finality;Term
 Producer Price Index;Term
 product inventories;Term
-program ID;Term
 programs;Term
 proof of concept;Term
 proof of stake;Term
@@ -809,7 +772,6 @@ smart contract exploitation;Term
 smart contract systems;Term
 smart contracts;Term
 snake oil;Term
-social media accounts;Term
 social platforms;Term
 Society for Worldwide Interbank Financial Telecommunication;Named Entity
 software wallets;Term
@@ -837,7 +799,6 @@ stakers;Term
 staking;Term
 Staking account;Term
 Staking Earn Account;Term
-standards;Term
 Standards Australia;Named Entity
 state identifications;Term
 Steam;Named Entity
@@ -924,7 +885,6 @@ U.S.;Abb
 U.S. Institute of Museum and Library Services;Named Entity
 Ubisoft;Named Entity
 UBS;Named Entity
-ultra-scalability;Term
 unauthorized logins;Term
 UNECE;Abb
 Unilever;Named Entity
