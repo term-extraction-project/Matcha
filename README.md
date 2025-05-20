@@ -26,11 +26,16 @@ Matcha
 │   │      ├── annotations  
 │   │      │   └── unique_annotation_lists  
 │   │      │       └── block_en_terms.csv  # Contains unique terms extracted from the text  
-│   │      └── texts  
-│   │          ├── block_en_01.txt  # Annotated text document  
-│   │          ├── block_en_02.txt  
+│   │      ├──  texts  
+│   │      │    ├── block_en_01.txt  # Annotated text document  
+│   │      │    ├── block_en_02.txt  
+│   │      │    ├── ...  
+│   │      │    └── block_en_17.txt
+│   │      └── bio_annotations  
+│   │          ├── bio_block_en_01.csv  # Tokenized fnnotated text document  
+│   │          ├── bio_block_en_02.csv  
 │   │          ├── ...  
-│   │          └── block_en_06.txt  
+│   │          └── bio_block_en_17.csv
 │   │  
 │   └── material_sci  (equivalent to "block")  
 │    
@@ -48,6 +53,6 @@ In the blockchain domain, there are 6 documents with 668 total extracted terms f
 | english  | Blockchain        | 17         | 953   | 18478 | 115774     |
 | english  | Material Science  | 7         | 947   | 11569 | 81447      |
 | kazakh   | Blockchain        | 17         | 692   | 14368 | 119515     |
-| kazakh   | Material Science  | 7         | 363   | 9005  | 81758      |
+| kazakh   | Material Science  | 7         | 376   | 9005  | 81758      |
 
 
