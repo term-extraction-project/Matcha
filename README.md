@@ -25,17 +25,19 @@ Matcha
 │   │   └── annotated  
 │   │      ├── annotations  
 │   │      │   └── unique_annotation_lists  
-│   │      │       └── block_en_terms.csv  # Contains unique terms extracted from the text  
+│   │      │       └── block_en_terms.csv  # Contains unique terms extracted from the text
+│   │      │ 
 │   │      ├──  texts  
 │   │      │    ├── block_en_01.txt  # Annotated text document  
 │   │      │    ├── block_en_02.txt  
 │   │      │    ├── ...  
 │   │      │    └── block_en_17.txt
-│   │      └── bio_annotations  
-│   │          ├── bio_block_en_01.csv  # Tokenized fnnotated text document  
-│   │          ├── bio_block_en_02.csv  
-│   │          ├── ...  
-│   │          └── bio_block_en_17.csv
+│   │      │ 
+│   │      └──  bio_annotations  
+│   │           ├── bio_block_en_01.csv  # Tokenized fnnotated text document  
+│   │           ├── bio_block_en_02.csv  
+│   │           ├── ...  
+│   │           └── bio_block_en_17.csv
 │   │  
 │   └── material_sci  (equivalent to "block")  
 │    
